@@ -11,10 +11,11 @@ app.layout = dbc.Container([
         children=[  
             dbc.NavItem(dbc.NavLink("About", href="#about")),  
             dbc.NavItem(dbc.NavLink("Research", href="#research")),  
-            dbc.NavItem(dbc.NavLink("Leadership", href="#leadership")),  
+            dbc.NavItem(dbc.NavLink("Leadership", href="#leadership")),
+            dbc.NavItem(dbc.NavLink("Hobbies", href="#leadership")),  
             dbc.NavItem(dbc.NavLink("Contact", href="#contact")),  
         ],  
-        brand="Dr. Maria Leyva",  
+        brand="Maria Ley Flores, PhD Candidate",  
         brand_href="#",  
         sticky="top",  
         color="primary",  
@@ -25,7 +26,7 @@ app.layout = dbc.Container([
     dbc.Row(  
         dbc.Col(  
             html.Div([  
-                html.H1("Soft Matter Physicist & Computational Researcher"),  
+                html.H1("Polymer Physicist & Computational Researcher"),  
                 html.P("PhD candidate at the University of Chicago specializing in polymer simulations, machine learning, and sustainable energy materials."),  
                 dbc.Button("Download CV", color="primary", className="me-2"),  
                 dbc.Button("GitHub", color="secondary", href="https://github.com/mleyf"),  
