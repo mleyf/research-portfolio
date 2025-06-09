@@ -36,3 +36,51 @@ app.layout = dbc.Container([
     ),  
 ], fluid=True)  
 
+
+
+############# INTERACTIVE PLOT EXAMPLE ###############
+
+import plotly.express as px  
+
+# Sample data  
+df = pd.DataFrame({  
+    "Concentration (%)": [10, 30, 50],  
+    "Diffusion Coefficient (m²/s)": [2.1e-9, 1.5e-9, 0.8e-9]  
+})  
+
+fig = px.line(df, x="Concentration (%)", y="Diffusion Coefficient (m²/s)", title="Diffusion vs. Concentration")  
+
+app.layout += dbc.Row([  
+    dbc.Col(dcc.Graph(figure=fig), width=8)  
+])  
+
+
+############# LEADERSHIP CARD ###############
+
+leadership_card = dbc.Card([  
+    dbc.CardHeader("Leadership"),  
+    dbc.CardBody([  
+        html.H5("Society of Hispanic Professional Engineers (SHPE)"),  
+        html.P("President | Organized Chicagoland Día de Ciencias (500+ attendees)."),  
+        html.Hr(),  
+        html.H5("MRSEC Grad Student Advisory Committee"),  
+        html.P("Advocated for inclusive policies and outreach programs."),  
+    ])  
+])  
+
+app.layout += dbc.Row(dbc.Col(leadership_card, width=8), className="mt-4")  
+
+
+
+############# CONTACT CARD ###############
+
+contact_form = dbc.Card([  
+    dbc.CardHeader("Get in Touch"),  
+    dbc.CardBody([  
+        dbc.Input(type="email", placeholder="Your email", className="mb-2"),  
+        dbc.Textarea(placeholder="Message", className="mb-2"),  
+        dbc.Button("Send", color="primary"),  
+    ])  
+])  
+
+app.layout += dbc.Row(dbc.Col(contact_form, width=6), className="mt-4")  
