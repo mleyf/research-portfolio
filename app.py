@@ -1,6 +1,8 @@
 import dash  
+import pandas as pd
 from dash import html, dcc  
-import dash_bootstrap_components as dbc  
+import dash_bootstrap_components as dbc 
+import plotly.express as px  
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])  
 server = app.server  
@@ -39,8 +41,6 @@ app.layout = dbc.Container([
 
 
 ############# INTERACTIVE PLOT EXAMPLE ###############
-
-import plotly.express as px  
 
 # Sample data  
 df = pd.DataFrame({  
