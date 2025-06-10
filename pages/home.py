@@ -20,7 +20,7 @@ layout = dbc.Container([
     # Hero Section with Photo, Name, and Tagline
     dbc.Row([
 
-                dbc.Col([
+        dbc.Col([
             html.Div([
                 html.H3("Key Achievements & Skills"),
                 html.Ul([
