@@ -1,0 +1,136 @@
+HEADER    UNCLASSIFIED                            28-Feb-24
+TITLE     UNITED ATOM STRUCTURE FOR MOLECULE UNL                                
+AUTHOR    AUTOMATED TOPOLOGY BUILDER (ATB) REVISION 2023-06-14 20:38:16
+AUTHOR   2  https://atb.uq.edu.au
+HETATM    1  P62 2NIV    0     -22.388   3.242   4.245  1.00  0.00           C
+HETATM    2  P61 2NIV    0     -23.151   1.949   4.109  1.00  0.00           C
+HETATM    3  P60 2NIV    0     -22.364   0.918   3.328  1.00  0.00           C
+HETATM    4  P59 2NIV    0     -23.122  -0.389   3.226  1.00  0.00           C
+HETATM    5  P58 2NIV    0     -22.400  -1.415   2.378  1.00  0.00           C
+HETATM    6  P57 2NIV    0     -21.166  -1.967   3.059  1.00  0.00           C
+HETATM    7  P56 2NIV    0     -20.531  -3.100   2.280  1.00  0.00           C
+HETATM    8  P55 2NIV    0     -19.848  -2.622   1.016  1.00  0.00           C
+HETATM    9  P54 2NIV    0     -19.153  -3.748   0.277  1.00  0.00           C
+HETATM   10  P53 2NIV    0     -17.793  -4.063   0.862  1.00  0.00           C
+HETATM   11  P52 2NIV    0     -17.129  -5.254   0.203  1.00  0.00           C
+HETATM   12  P51 2NIV    0     -16.752  -5.039  -1.247  1.00  0.00           C
+HETATM   13  P50 2NIV    0     -15.672  -3.994  -1.428  1.00  0.00           C
+HETATM   14  P49 2NIV    0     -15.263  -3.879  -2.881  1.00  0.00           C
+HETATM   15  P48 2NIV    0     -14.205  -2.820  -3.106  1.00  0.00           C
+HETATM   16  P47 2NIV    0     -14.744  -1.416  -2.934  1.00  0.00           C
+HETATM   17  P46 2NIV    0     -13.756  -0.355  -3.370  1.00  0.00           C
+HETATM   18  P45 2NIV    0     -12.526  -0.308  -2.488  1.00  0.00           C
+HETATM   19  P44 2NIV    0     -11.646   0.888  -2.782  1.00  0.00           C
+HETATM   20  P43 2NIV    0     -10.921   0.763  -4.106  1.00  0.00           C
+HETATM   21  P42 2NIV    0     -10.053   1.968  -4.404  1.00  0.00           C
+HETATM   22  P41 2NIV    0      -8.780   1.985  -3.584  1.00  0.00           C
+HETATM   23  P40 2NIV    0      -7.919   3.178  -3.942  1.00  0.00           C
+HETATM   24  P39 2NIV    0      -6.656   3.255  -3.110  1.00  0.00           C
+HETATM   25  P38 2NIV    0      -5.613   2.250  -3.551  1.00  0.00           C
+HETATM   26  P37 2NIV    0      -4.355   2.315  -2.711  1.00  0.00           C
+HETATM   27  P36 2NIV    0      -3.528   3.550  -2.997  1.00  0.00           C
+HETATM   28  P35 2NIV    0      -2.194   3.533  -2.282  1.00  0.00           C
+HETATM   29  P34 2NIV    0      -2.336   3.726  -0.788  1.00  0.00           C
+HETATM   30  P33 2NIV    0      -0.965   3.809  -0.133  1.00  0.00           C
+HETATM   31   O2 2NIV    0      -1.141   3.898   1.251  1.00  0.00           O
+HETATM   32  SI1 2NIV    0       0.363   4.186   2.143  1.00  0.00          Si
+HETATM   33  C31 2NIV    0       1.236   5.649   1.578  1.00  0.00           C
+HETATM   34  C32 2NIV    0      -0.093   4.190   3.879  1.00  0.00           C
+HETATM   35   O1 2NIV    0       1.394   2.811   1.708  1.00  0.00           O
+HETATM   36  P30 2NIV    0       0.913   1.580   2.168  1.00  0.00           C
+HETATM   37  P29 2NIV    0       1.741   0.461   1.550  1.00  0.00           C
+HETATM   38  P28 2NIV    0       2.945   0.072   2.378  1.00  0.00           C
+HETATM   39  P27 2NIV    0       3.959   1.182   2.554  1.00  0.00           C
+HETATM   40  P26 2NIV    0       4.572   1.684   1.264  1.00  0.00           C
+HETATM   41  P25 2NIV    0       5.316   0.611   0.500  1.00  0.00           C
+HETATM   42  P24 2NIV    0       6.021   1.191  -0.710  1.00  0.00           C
+HETATM   43  P23 2NIV    0       6.790   0.140  -1.488  1.00  0.00           C
+HETATM   44  P22 2NIV    0       8.289   0.215  -1.284  1.00  0.00           C
+HETATM   45  P21 2NIV    0       8.707  -0.170   0.119  1.00  0.00           C
+HETATM   46  P20 2NIV    0      10.213  -0.150   0.267  1.00  0.00           C
+HETATM   47  P19 2NIV    0      10.635  -0.536   1.670  1.00  0.00           C
+HETATM   48  P18 2NIV    0      12.143  -0.600   1.818  1.00  0.00           C
+HETATM   49  P17 2NIV    0      12.687  -2.013   1.869  1.00  0.00           C
+HETATM   50  P16 2NIV    0      12.513  -2.752   0.560  1.00  0.00           C
+HETATM   51  P15 2NIV    0      13.028  -4.175   0.612  1.00  0.00           C
+HETATM   52  P14 2NIV    0      14.525  -4.294   0.806  1.00  0.00           C
+HETATM   53  P13 2NIV    0      15.317  -3.652  -0.312  1.00  0.00           C
+HETATM   54  P12 2NIV    0      16.787  -4.008  -0.267  1.00  0.00           C
+HETATM   55  P11 2NIV    0      17.495  -3.587   1.003  1.00  0.00           C
+HETATM   56  P10 2NIV    0      17.428  -2.106   1.307  1.00  0.00           C
+HETATM   57   P9 2NIV    0      17.960  -1.207   0.211  1.00  0.00           C
+HETATM   58   P8 2NIV    0      19.409  -1.446  -0.153  1.00  0.00           C
+HETATM   59   P7 2NIV    0      20.361  -1.109   0.975  1.00  0.00           C
+HETATM   60   P6 2NIV    0      21.812  -1.250   0.563  1.00  0.00           C
+HETATM   61   P5 2NIV    0      22.305  -0.063  -0.237  1.00  0.00           C
+HETATM   62   P4 2NIV    0      23.753  -0.239  -0.643  1.00  0.00           C
+HETATM   63   P3 2NIV    0      24.251   0.952  -1.433  1.00  0.00           C
+HETATM   64   P2 2NIV    0      25.688   0.790  -1.882  1.00  0.00           C
+HETATM   65   P1 2NIV    0      26.674   0.978  -0.759  1.00  0.00           C
+CONECT    1    2
+CONECT    2    1    3
+CONECT    3    2    4
+CONECT    4    3    5
+CONECT    5    4    6
+CONECT    6    5    7
+CONECT    7    6    8
+CONECT    8    7    9
+CONECT    9    8   10
+CONECT   10    9   11
+CONECT   11   10   12
+CONECT   12   11   13
+CONECT   13   12   14
+CONECT   14   13   15
+CONECT   15   14   16
+CONECT   16   15   17
+CONECT   17   16   18
+CONECT   18   17   19
+CONECT   19   18   20
+CONECT   20   19   21
+CONECT   21   20   22
+CONECT   22   21   23
+CONECT   23   22   24
+CONECT   24   23   25
+CONECT   25   24   26
+CONECT   26   25   27
+CONECT   27   26   28
+CONECT   28   27   29
+CONECT   29   28   30
+CONECT   30   29   31
+CONECT   31   30   32
+CONECT   32   31   33   34   35
+CONECT   33   32
+CONECT   34   32
+CONECT   35   32   36
+CONECT   36   35   37
+CONECT   37   36   38
+CONECT   38   37   39
+CONECT   39   38   40
+CONECT   40   39   41
+CONECT   41   40   42
+CONECT   42   41   43
+CONECT   43   42   44
+CONECT   44   43   45
+CONECT   45   44   46
+CONECT   46   45   47
+CONECT   47   46   48
+CONECT   48   47   49
+CONECT   49   48   50
+CONECT   50   49   51
+CONECT   51   50   52
+CONECT   52   51   53
+CONECT   53   52   54
+CONECT   54   53   55
+CONECT   55   54   56
+CONECT   56   55   57
+CONECT   57   56   58
+CONECT   58   57   59
+CONECT   59   58   60
+CONECT   60   59   61
+CONECT   61   60   62
+CONECT   62   61   63
+CONECT   63   62   64
+CONECT   64   63   65
+CONECT   65   64
+END
+

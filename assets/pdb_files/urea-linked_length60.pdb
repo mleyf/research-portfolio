@@ -1,0 +1,138 @@
+HEADER    UNCLASSIFIED                            15-Mar-24
+TITLE     UNITED ATOM STRUCTURE FOR MOLECULE UNL                                
+AUTHOR    AUTOMATED TOPOLOGY BUILDER (ATB) REVISION 2023-06-14 20:38:16
+AUTHOR   2  https://atb.uq.edu.au
+HETATM    1  P61 HKAI    0       8.787 -10.271   1.521  1.00  0.00           C
+HETATM    2  P60 HKAI    0       7.610  -9.338   1.395  1.00  0.00           C
+HETATM    3  P59 HKAI    0       7.681  -8.529   0.117  1.00  0.00           C
+HETATM    4  P58 HKAI    0       6.442  -7.694  -0.123  1.00  0.00           C
+HETATM    5  P57 HKAI    0       6.205  -6.607   0.905  1.00  0.00           C
+HETATM    6  P56 HKAI    0       7.302  -5.567   0.989  1.00  0.00           C
+HETATM    7  P55 HKAI    0       7.467  -4.782  -0.295  1.00  0.00           C
+HETATM    8  P54 HKAI    0       8.412  -3.609  -0.139  1.00  0.00           C
+HETATM    9  P53 HKAI    0       9.858  -4.042  -0.026  1.00  0.00           C
+HETATM   10  P52 HKAI    0      10.783  -2.849   0.084  1.00  0.00           C
+HETATM   11  P51 HKAI    0      12.228  -3.283   0.196  1.00  0.00           C
+HETATM   12  P50 HKAI    0      13.178  -2.112   0.336  1.00  0.00           C
+HETATM   13  P49 HKAI    0      13.358  -1.354  -0.962  1.00  0.00           C
+HETATM   14  P48 HKAI    0      14.418  -0.277  -0.865  1.00  0.00           C
+HETATM   15  P47 HKAI    0      14.004   0.868   0.036  1.00  0.00           C
+HETATM   16  P46 HKAI    0      14.978   2.023  -0.065  1.00  0.00           C
+HETATM   17  P45 HKAI    0      14.749   3.080   0.994  1.00  0.00           C
+HETATM   18  P44 HKAI    0      13.394   3.749   0.926  1.00  0.00           C
+HETATM   19  P43 HKAI    0      13.179   4.513  -0.363  1.00  0.00           C
+HETATM   20  P42 HKAI    0      11.942   5.385  -0.322  1.00  0.00           C
+HETATM   21  P41 HKAI    0      10.663   4.577  -0.265  1.00  0.00           C
+HETATM   22  P40 HKAI    0       9.444   5.469  -0.358  1.00  0.00           C
+HETATM   23  P39 HKAI    0       8.167   4.668  -0.214  1.00  0.00           C
+HETATM   24  P38 HKAI    0       6.946   5.547  -0.383  1.00  0.00           C
+HETATM   25  P37 HKAI    0       5.653   4.800  -0.137  1.00  0.00           C
+HETATM   26  P36 HKAI    0       5.334   3.813  -1.240  1.00  0.00           C
+HETATM   27  P35 HKAI    0       3.993   3.138  -1.033  1.00  0.00           C
+HETATM   28  P34 HKAI    0       2.844   3.983  -1.543  1.00  0.00           C
+HETATM   29  P33 HKAI    0       1.492   3.427  -1.155  1.00  0.00           C
+HETATM   30  P32 HKAI    0       1.198   2.113  -1.884  1.00  0.00           C
+HETATM   31   N2 HKAI    0      -0.127   1.596  -1.680  1.00  0.00           N
+HETATM   32  H63 HKAI    0      -0.879   2.144  -2.023  1.00  0.00           H
+HETATM   33  C31 HKAI    0      -0.366   0.631  -0.689  1.00  0.00           C
+HETATM   34   O1 HKAI    0       0.589   0.058  -0.107  1.00  0.00           O
+HETATM   35   N1 HKAI    0      -1.691   0.252  -0.428  1.00  0.00           N
+HETATM   36  H62 HKAI    0      -2.437   0.809  -0.770  1.00  0.00           H
+HETATM   37  P30 HKAI    0      -1.992  -0.629   0.665  1.00  0.00           C
+HETATM   38  P29 HKAI    0      -2.316   0.047   1.998  1.00  0.00           C
+HETATM   39  P28 HKAI    0      -3.537   0.936   1.926  1.00  0.00           C
+HETATM   40  P27 HKAI    0      -3.897   1.479   3.293  1.00  0.00           C
+HETATM   41  P26 HKAI    0      -5.071   2.436   3.239  1.00  0.00           C
+HETATM   42  P25 HKAI    0      -4.655   3.834   2.835  1.00  0.00           C
+HETATM   43  P24 HKAI    0      -5.822   4.796   2.767  1.00  0.00           C
+HETATM   44  P23 HKAI    0      -6.787   4.532   1.629  1.00  0.00           C
+HETATM   45  P22 HKAI    0      -6.186   4.751   0.254  1.00  0.00           C
+HETATM   46  P21 HKAI    0      -5.777   3.466  -0.439  1.00  0.00           C
+HETATM   47  P20 HKAI    0      -6.963   2.684  -0.962  1.00  0.00           C
+HETATM   48  P19 HKAI    0      -6.552   1.508  -1.823  1.00  0.00           C
+HETATM   49  P18 HKAI    0      -5.768   0.464  -1.056  1.00  0.00           C
+HETATM   50  P17 HKAI    0      -5.526  -0.789  -1.878  1.00  0.00           C
+HETATM   51  P16 HKAI    0      -6.279  -1.999  -1.367  1.00  0.00           C
+HETATM   52  P15 HKAI    0      -7.785  -1.876  -1.462  1.00  0.00           C
+HETATM   53  P14 HKAI    0      -8.298  -2.026  -2.879  1.00  0.00           C
+HETATM   54  P13 HKAI    0      -9.804  -1.881  -2.962  1.00  0.00           C
+HETATM   55  P12 HKAI    0     -10.534  -3.075  -2.385  1.00  0.00           C
+HETATM   56  P11 HKAI    0     -12.033  -3.003  -2.585  1.00  0.00           C
+HETATM   57  P10 HKAI    0     -12.699  -1.797  -1.958  1.00  0.00           C
+HETATM   58   P9 HKAI    0     -12.478  -1.653  -0.467  1.00  0.00           C
+HETATM   59   P8 HKAI    0     -13.129  -2.761   0.332  1.00  0.00           C
+HETATM   60   P7 HKAI    0     -12.928  -2.600   1.824  1.00  0.00           C
+HETATM   61   P6 HKAI    0     -13.655  -1.419   2.433  1.00  0.00           C
+HETATM   62   P5 HKAI    0     -15.166  -1.530   2.366  1.00  0.00           C
+HETATM   63   P4 HKAI    0     -15.783  -0.716   1.246  1.00  0.00           C
+HETATM   64   P3 HKAI    0     -15.806   0.767   1.552  1.00  0.00           C
+HETATM   65   P2 HKAI    0     -16.523   1.567   0.485  1.00  0.00           C
+HETATM   66   P1 HKAI    0     -15.780   1.598  -0.826  1.00  0.00           C
+CONECT    1    2
+CONECT    2    1    3
+CONECT    3    2    4
+CONECT    4    3    5
+CONECT    5    4    6
+CONECT    6    5    7
+CONECT    7    6    8
+CONECT    8    7    9
+CONECT    9    8   10
+CONECT   10    9   11
+CONECT   11   10   12
+CONECT   12   11   13
+CONECT   13   12   14
+CONECT   14   13   15
+CONECT   15   14   16
+CONECT   16   15   17
+CONECT   17   16   18
+CONECT   18   17   19
+CONECT   19   18   20
+CONECT   20   19   21
+CONECT   21   20   22
+CONECT   22   21   23
+CONECT   23   22   24
+CONECT   24   23   25
+CONECT   25   24   26
+CONECT   26   25   27
+CONECT   27   26   28
+CONECT   28   27   29
+CONECT   29   28   30
+CONECT   30   29   31
+CONECT   31   30   32   33
+CONECT   32   31
+CONECT   33   31   34   35
+CONECT   34   33
+CONECT   35   33   36   37
+CONECT   36   35
+CONECT   37   35   38
+CONECT   38   37   39
+CONECT   39   38   40
+CONECT   40   39   41
+CONECT   41   40   42
+CONECT   42   41   43
+CONECT   43   42   44
+CONECT   44   43   45
+CONECT   45   44   46
+CONECT   46   45   47
+CONECT   47   46   48
+CONECT   48   47   49
+CONECT   49   48   50
+CONECT   50   49   51
+CONECT   51   50   52
+CONECT   52   51   53
+CONECT   53   52   54
+CONECT   54   53   55
+CONECT   55   54   56
+CONECT   56   55   57
+CONECT   57   56   58
+CONECT   58   57   59
+CONECT   59   58   60
+CONECT   60   59   61
+CONECT   61   60   62
+CONECT   62   61   63
+CONECT   63   62   64
+CONECT   64   63   65
+CONECT   65   64   66
+CONECT   66   65
+END
+

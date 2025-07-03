@@ -18,12 +18,12 @@ layout = dbc.Container([
                 html.H4("Contact Information"),
                 html.P("Feel free to reach out for collaboration, inquiries, or just to connect!"),
                 html.P("Email:  mleyf@uchicago.edu"),
-                html.P("Phone: (+352)691-161-456"),  # Placeholder phone number
+                #html.P("Phone: (+352)691-161-456"),
 
                 dbc.Button("Download CV", color="primary", className="me-2", id="cv-button"),
                 dbc.Button("LinkedIn", color="secondary", href="https://www.linkedin.com/in/mleyf/", className="me-2"),
-                dbc.Button("GitHub", color="info", href=""),
-                dbc.Button("Email", color="success", href="mailto:mleyf@uchicago.edu", className="me-2"),
+                dbc.Button("Google Scholar", color="info", href="https://scholar.google.com/citations?user=_VPhV1UAAAAJ&hl=en&oi=ao", className="me-2"),
+                dbc.Button("GitHub", color="dark", href=""),
             ], className="text-center mt-4"),
             width=12
         ),

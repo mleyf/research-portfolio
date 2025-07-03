@@ -1,139 +1,287 @@
 import dash
-from dash import html, dcc
+from dash import html, dcc, register_page
 import dash_bootstrap_components as dbc
-
-import plotly.express as px
-import pandas as pd
-
-# Example dummy data: diffusion coefficient vs. concentration
-dummy_data = pd.DataFrame({
-    "Concentration (%)": [10, 20, 30, 40, 50],
-    "Diffusion Coefficient (m²/s)": [2.1e-9, 1.7e-9, 1.5e-9, 1.3e-9, 0.8e-9]
-})
-
-# Create the plot
-fig = px.line(
-    dummy_data,
-    x="Concentration (%)",
-    y="Diffusion Coefficient (m²/s)",
-    title="Diffusion Coefficient vs. Concentration",
-    labels={"Concentration (%)": "Concentration (%)", "Diffusion Coefficient (m²/s)": "Diffusion Coefficient (m²/s)"}
-)
-
-# Optional: Customize the plot
-fig.update_layout(
-    height=300,
-    margin={"l": 40, "r": 40, "t": 40, "b": 40}
-)
-
-
 
 dash.register_page(__name__, path="/research", name="Research")
 
 layout = dbc.Container([
-    html.H2("Research Overview", className="mt-4 mb-4"),
-    html.P("My research explores the intersection of materials modeling, machine learning, and polymer informatics, with a focus on sustainable energy solutions. I use advanced simulation techniques and data-driven approaches to predict material properties and enable rational design of polymer materials for circular economy applications."),
 
-    # Project 1
-    dbc.Card([
-        dbc.CardHeader("Numerical Study of Polymer Blends for Catalytic Recycling of Plastics"),
-        dbc.CardBody([
-            html.P("Investigated the diffusion of polyethylene binary mixtures through Statistical Associating Fluid Theory (SAFT), high-throughput molecular simulations and machine learning."),
-            html.P(["Key tools: ", html.B("SAFT-γ Mie EoS, GROMACS, Python, Tensorflow"), "."]),
-            html.P("Developed a model to predict diffusion coefficients based on temperature, pressure, oligomer length and blend concentration."),
-            
-            
-            # Two columns: Video and Plot
-            dbc.Row([
-                dbc.Col(
-                    html.Div([
-                        html.Img(
-                            src="assets/images/binary_mixtures.png",  # Update path as needed
-                            style={"width": "80%", "border-radius": "8px"}
-                        )
-                    ]),
-                    width=6
+    # Research Overview Card
+    dbc.Row(
+        dbc.Col(
+            html.Div([
+                html.H2("Research Overview", className="mb-3"),
+                dcc.Markdown('''
+                    From tackling the global plastics crisis to enabling next-generation energy storage, my research is driven by the urgent need for sustainable materials solutions. 
+                    By integrating high-performance computing, molecular simulations, and machine learning, I aim to accelerate the discovery and design of advanced polymers that address real-world environmental challenges. 
+                    My work focuses on predicting material properties and developing circular-by-design strategies to close the loop on plastic waste, engineer high-performance polymer blends, and create innovative materials for all-organic batteries.
+
+                    **Key areas of focus include:**
+
+                    - Polymer blends and diffusion modeling
+                    - Circular-by-design polymers for sustainable plastics
+                    - Polymer-based electrodes for all-organic batteries
+                ''', className="text-left mb-3"),
+            ], className="text-left"),
+            width=12
+        ),
+        style={"background-color": "#f8f9fa", "padding": "24px", "border-radius": "12px", "margin-bottom": "12px"}
+    ),
+    
+    # Row 1 of Projects
+    dbc.Row([
+
+        # Project 1
+        dbc.Col(
+            dbc.Card([
+                dbc.CardHeader(
+                    [
+                        html.I(className="bi bi-flask me-2"),
+                        html.B("Numerical Simulation of"),
+                        html.Br(),
+                        html.B("Circular-by-Design Polymers"),
+                    ],
+                    className="text-center",
+                    style={
+                        "fontSize": "1.1rem", 
+                        "backgroundColor": "#142850", 
+                        "color": "white", 
+                        "borderRadius": "12px 12px 0 0"}
                 ),
-                dbc.Col(
-                    html.Div([
-                        html.H5("Diffusion Coefficient vs. Concentration", className="mt-3 mb-2"),
-                        dcc.Graph(
-                            id='diffusion-plot',
-                            figure=fig,  # Replace with your actual figure
-                            style={"width": "100%", "height": "300px"}
-                        )
-                    ]),
-                    width=6
+                dbc.CardBody([
+                    html.Img(
+                        src="assets/images/PE-like.png",
+                        className="mb-3",
+                        style={"width": "98%", "borderRadius": "8px"}
+                    ),
+                    dcc.Markdown('''
+                        Simulated and analyzed a library of 10 polyethylene-like materials featuring cleavable bonds for circular polymer design. Benchmarked against polyethylene thermodynamic, transport and crystallization properties.
+
+                        **Key tools:** GROMACS, GROMOS ATB, Polyply, Python.
+
+                        **Publication:**  Ley-Flores et al. (2025) *[In-Review]* [arXiv preprint arXiv:2404.09341](https://doi.org/10.48550/arXiv.2404.09341).
+
+                        **Poster:**  
+                        Best Poster Award, [Center for Plastics Innovation (CPI) Annual Meeting 2023](https://cpi.udel.edu/).
+                                            '''),
+                    dbc.Button(
+                        "Explore the data",
+                        href="/circular-polymers",
+                        color="primary",
+                        className="mt-3"
+                    )
+                ])
+            ], color="light", outline=True, className="custom-card"),
+            md=4, className="mb-4"
+        ),
+
+        # Project 2
+        dbc.Col(
+            dbc.Card([
+                dbc.CardHeader(
+                    [
+                        html.I(className="bi bi-flask me-2"),
+                        html.B("Polyethylene Blends Diffusion Modeling"),
+                        html.Br(),
+                        html.B("at Extreme Conditions"),
+                    ],
+                    className="text-center",
+                    style={
+                        "fontSize": "1.1rem", 
+                        "backgroundColor": "#142850", 
+                        "color": "white", 
+                        "borderRadius": "12px 12px 0 0"}
                 ),
-            ], className="mt-4"),
+                dbc.CardBody([
+                    html.Img(
+                        src="assets/images/binary_blend.png",
+                        className="mb-3",
+                        style={"width": "100%", "borderRadius": "8px"}
+                    ),
+                    dcc.Markdown('''
+                        Developed a model to predict diffusion coefficients based on temperature, pressure, oligomer length and blend concentration.
 
+                        **Key tools:** GROMACS, GROMOS ATB, Python, TensorFlow.
 
-            ##### Publicatios and Posters #####            
-            html.P([
-                "Publication: Ley-Flores et al. (2025) ",
-                html.I("[In-Review] "),
-                html.A("arXiv preprint arXiv:2404.09676", href="https://doi.org/10.48550/arXiv.2404.09676", target="_blank"),
-                "."
-            ]),
+                        **Publication:**  Ley-Flores et al. (2025) *[In-Review]* [arXiv preprint arXiv:2404.09676](https://doi.org/10.48550/arXiv.2404.09676).  
+                                 
+                        **Poster:**  
+                        Best Poster Presentation, [MindBytes Conference for High Performance Computing 2023](https://legacy.mindbytes.rcc.uchicago.edu/2023/).
+                                            '''),
+                    dbc.Button(
+                        "Applet Coming Soon",
+                        color="secondary",
+                        className="mt-3"
+                    )
+                ])
+            ], color="light", outline=True, className="custom-card"),
+            md=4, className="mb-4"
+        ),
 
-            html.P([
-                "Poster: Best Poster Presentation, ",
-                html.A("MindBytes Conference 2023", href="https://legacy.mindbytes.rcc.uchicago.edu/2023/", target="_blank"),
-                "."
-            ])
-        ])
-    ], className="mb-4"),
+        # Project 3
+        dbc.Col(
+            dbc.Card([
+                dbc.CardHeader(
+                    [
+                        html.I(className="bi bi-flask me-2"),
+                        html.B("Thermodynamic Properties of Polymer Blends"),
+                        html.Br(),
+                        html.B("Under Catalytic Recycling Conditions"),
+                    ],
+                    className="text-center",
+                    style={
+                        "fontSize": "1.1rem", 
+                        "backgroundColor": "#142850", 
+                        "color": "white", 
+                        "borderRadius": "12px 12px 0 0"}
+                ),
+                dbc.CardBody([
+                    html.Img(
+                        src="assets/images/PE_SAFT_density.gif",
+                        className="mb-3",
+                        style={"width": "100%", "borderRadius": "8px"}
+                    ),
+                    dcc.Markdown('''
+                        Developed a model to predict diffusion coefficients based on temperature, pressure, oligomer length and blend concentration.
 
+                        **Key tools:** SAFT-γ Mie EoS, Clapeyron, Python.
 
-    # Project 2
-    dbc.Card([
-        dbc.CardHeader("Circular-by-Design Polymers for Sustainable Plastics"),
-        dbc.CardBody([
-            html.P("Simulated, analyzed and benchmarked a library of 10 polyethylene-like materials featuring cleavable bonds for circular polymer design using molecular dynamics simulations, and automated topology builders."),
-            html.P(["Key tools: ", html.B("GROMACS, LigParGen, Polyply, Python"), "."]),
-            html.P("Analyzed thermodynamic, transport and crystallization properties of the materials."),
-            #dcc.Graph(figure=another_plotly_figure),
-            html.P([
-                "Publication: Ley-Flores et al. (2025) ",
-                html.I("[In-Review] "),
-                html.A("arXiv preprint arXiv:2404.09341", href="https://doi.org/10.48550/arXiv.2404.09341", target="_blank"),
-                "."
-            ]),
-            html.P([
-                "Poster: Best Poster Award, ",
-                html.A("Center for Plastics Innovation (CPI) Annual Meeting 2023", href="https://cpi.udel.edu/", target="_blank"),
-                "."
-            ]),
-        ])
-    ], className="mb-4"),
+                        **Publication:**  Kots et al. (2025) Impact of small-alkane solvents on polyolefin hydrogenolysis over ruthenium catalyst. *Submitted*.
+                                 
+                                            '''),
+                    dbc.Button(
+                        "Applet Coming Soon",
+                        color="secondary",
+                        className="mt-3"
+                    )
+                ])
+            ], color="light", outline=True, className="custom-card"),
+            md=4, className="mb-4"
+        ),
+    ]),
 
-    # Project 3
-    dbc.Card([
-        dbc.CardHeader("Phenothiazine-Based Polymers for Organic Batteries"),
-        dbc.CardBody([
-            html.P("Simulated and analyzed a library of 6 phenothiazine-based polymers for organic battery applications using molecular dynamics simulations and quantum chemistry calculations."),
-            html.P(["Key tools: ", html.B("Gaussian, GROMACS, LigParGen, Polyply, Python"), "."]),
-            html.P("Analyzed swelling behavior and state-of-charge effects on polymer properties."),
-            #dcc.Graph(figure=another_plotly_figure),
-            html.P([
-                "Oral Contribution: Best Oral Presentation, ",
-                html.A("Organic Battery Days 2025", href="https://www.obd2025.com.au/", target="_blank"),
-                "."
-            ]),
+    # Row 2 of Projects
+    dbc.Row([
 
-        ])
-    ], className="mb-4"),
+        # Project 4
+        dbc.Col(
+            dbc.Card([
+                dbc.CardHeader(
+                    [
+                        html.I(className="bi bi-flask me-2"),
+                        html.B("Design of Phenothiazine-based"),
+                        html.Br(),
+                        html.B("Polymers for All-Organic Cathodes"),
+                    ],
+                    className="text-center",
+                    style={
+                        "fontSize": "1.1rem", 
+                        "backgroundColor": "#142850", 
+                        "color": "white", 
+                        "borderRadius": "12px 12px 0 0"}
+                ),
+                dbc.CardBody([
+                    html.Img(
+                        src="assets/videos/redox_polymer.gif",
+                        className="mb-3",
+                        style={
+                            "width": "63.5%", 
+                            "borderRadius": "8px", 
+                            "display": "block",
+                            "marginLeft": "auto",
+                            "marginRight": "auto"}
+                    ),
+                    dcc.Markdown('''
+                        Simulated and benchmarked a library of 6 phenothiazine-based polymers for its potential as cathode materials for all-organic batteries.
 
+                        **Key tools:** Gaussian, GROMACS, LigParGen, Polyply, MDAnalysis.
 
-    # Skills/Tools Section
-    html.H3("Skills and Tools", className="mt-4 mb-3"),
-    dbc.ListGroup([
-        dbc.ListGroupItem("Quantum Chemistry (Gaussian)"),
-        dbc.ListGroupItem("Molecular Dynamics Simulation (GROMACS)"),
-        dbc.ListGroupItem("Machine Learning (TensorFlow, scikit-learn)"),
-        dbc.ListGroupItem("Topology Automation (LigParGen, Polyply)"),
-        dbc.ListGroupItem("Data Analysis and Visualization (Python, Pandas, Matplotlib)"),
-        dbc.ListGroupItem("Thermodynamic Property Calculation (SAFT-γ Mie Equation of State)"),
-        dbc.ListGroupItem("Molecular Visualization (VMD)"),
-    ], className="mb-4"),
+                        **Publication:**  
+                        Yang, Y., Ma, T., Studer, G., **Ley-Flores, M.**, et al (2025) (*In Preparation*)
+
+                        **Oral Contribution:**  
+                        Best Oral Presentation, [Organic Battery Days 2025](https://www.obd2025.com.au/).
+                                            '''),
+                    dbc.Button(
+                        "Applet Coming Soon",
+                        color="secondary",
+                        className="mt-3"
+                    )
+                ])
+            ], color="light", outline=True, className="custom-card"),
+            md=4, className="mb-4"
+        ),
+
+        # Undergrad Thesis
+        dbc.Col(
+            dbc.Card([
+                dbc.CardHeader(
+                    [
+                        html.I(className="bi bi-flask me-2"),
+                        html.B("Synthesis and Characterization of"),
+                        html.Br(),
+                        html.B("Amphiphilic Molecules Based on L-Cysteine"),
+                    ],
+                    className="text-center",
+                    style={
+                        "fontSize": "1.1rem", 
+                        "backgroundColor": "#142850", 
+                        "color": "white", 
+                        "borderRadius": "12px 12px 0 0"}
+                ),
+                dbc.CardBody([
+                    html.Img(
+                        src="assets/images/thesis_undergrad.png",
+                        className="mb-3",
+                        style={
+                            "width": "81%", 
+                            "borderRadius": "8px", 
+                            "display": "block",
+                            "marginLeft": "auto",
+                            "marginRight": "auto"},
+                    ),
+                    dcc.Markdown('''
+                        Developed a model to predict diffusion coefficients based on temperature, pressure, oligomer length and blend concentration.
+
+                        **Key tools:** FTIR, UV-Vis and Raman Spectroscopy, Nuclear Magnetic Resonance, Dynamic Light Scattering.
+
+                        **Publication:**  
+                        Vizcarra-Pacheco, M., **Ley-Flores, M.**, Matrecitos-Burruel, A. M., López-Esparza, R., Fernández-Quiroz, D., Lucero-Acuña, A., & Zavala-Rivera, P. (2021). Synthesis and characterization of a bioconjugate based on oleic acid and L-cysteine. *Polymers*, 13(11), 1791. [DOI:10.3390/polym13111791](https://doi.org/10.3390/polym13111791).
+                                            ''')
+                ])
+            ], color="light", outline=True, className="custom-card"),
+            md=4, className="mb-4"
+        ),
+        
+    ]),
+    
+    # Skills Section
+    html.H3("Technical Expertise", className="mt-5 mb-4"),
+    dbc.Row([
+        dbc.Col(
+            dbc.ListGroup([
+                dbc.ListGroupItem("Quantum Chemistry (Gaussian)"),
+                dbc.ListGroupItem("Molecular Dynamics (GROMACS)"),
+                dbc.ListGroupItem("Machine Learning (TensorFlow)"),
+            ], flush=True),
+            md=4
+        ),
+        dbc.Col(
+            dbc.ListGroup([
+                dbc.ListGroupItem("Topology Automation (Polyply)"),
+                dbc.ListGroupItem("Molecular Visualization (VMD, Blender)"),
+                dbc.ListGroupItem("SAFT-γ Mie EoS"),
+            ], flush=True),
+            md=4
+        ),
+        dbc.Col(
+            dbc.ListGroup([
+                dbc.ListGroupItem("High-Performance Computing (PBS, Slurm)"),
+                dbc.ListGroupItem("Python Scientific Stack (Numpy, Pandas, Matplotlib)"),
+                dbc.ListGroupItem("Version Control (Git)"),
+            ], flush=True),
+            md=4
+        ),
+    ], className="mb-5")
+
 ], fluid=True)

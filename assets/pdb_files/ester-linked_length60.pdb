@@ -1,0 +1,142 @@
+HEADER    UNCLASSIFIED                            28-Feb-24
+TITLE     UNITED ATOM STRUCTURE FOR MOLECULE UNL                                
+AUTHOR    AUTOMATED TOPOLOGY BUILDER (ATB) REVISION 2023-06-14 20:38:16
+AUTHOR   2  https://atb.uq.edu.au
+HETATM    1  P64 ANVQ    0     -16.244  -8.136  -3.162  1.00  0.00           C
+HETATM    2  P63 ANVQ    0     -17.723  -7.907  -3.344  1.00  0.00           C
+HETATM    3  P62 ANVQ    0     -18.139  -6.486  -3.028  1.00  0.00           C
+HETATM    4  P61 ANVQ    0     -18.103  -6.191  -1.543  1.00  0.00           C
+HETATM    5  P60 ANVQ    0     -18.681  -4.835  -1.198  1.00  0.00           C
+HETATM    6  P59 ANVQ    0     -17.903  -3.658  -1.748  1.00  0.00           C
+HETATM    7  P58 ANVQ    0     -16.489  -3.534  -1.222  1.00  0.00           C
+HETATM    8  P57 ANVQ    0     -16.435  -3.319   0.275  1.00  0.00           C
+HETATM    9  P56 ANVQ    0     -15.047  -2.951   0.757  1.00  0.00           C
+HETATM   10  P55 ANVQ    0     -14.069  -4.101   0.639  1.00  0.00           C
+HETATM   11  P54 ANVQ    0     -12.719  -3.780   1.245  1.00  0.00           C
+HETATM   12  P53 ANVQ    0     -11.921  -2.810   0.399  1.00  0.00           C
+HETATM   13  P52 ANVQ    0     -10.537  -2.557   0.961  1.00  0.00           C
+HETATM   14  P51 ANVQ    0     -10.562  -1.629   2.158  1.00  0.00           C
+HETATM   15  P50 ANVQ    0      -9.181  -1.389   2.732  1.00  0.00           C
+HETATM   16  P49 ANVQ    0      -8.357  -0.399   1.936  1.00  0.00           C
+HETATM   17  P48 ANVQ    0      -8.772   1.036   2.189  1.00  0.00           C
+HETATM   18  P47 ANVQ    0      -7.892   2.001   1.422  1.00  0.00           C
+HETATM   19  P46 ANVQ    0      -8.393   3.429   1.487  1.00  0.00           C
+HETATM   20  P45 ANVQ    0      -8.275   4.026   2.873  1.00  0.00           C
+HETATM   21  P44 ANVQ    0      -8.770   5.455   2.943  1.00  0.00           C
+HETATM   22  P43 ANVQ    0      -7.948   6.447   2.148  1.00  0.00           C
+HETATM   23  P42 ANVQ    0      -6.534   6.587   2.669  1.00  0.00           C
+HETATM   24  P41 ANVQ    0      -5.739   7.644   1.934  1.00  0.00           C
+HETATM   25  P40 ANVQ    0      -5.580   7.400   0.448  1.00  0.00           C
+HETATM   26  P39 ANVQ    0      -5.073   6.024   0.077  1.00  0.00           C
+HETATM   27  P38 ANVQ    0      -3.702   5.725   0.644  1.00  0.00           C
+HETATM   28  P37 ANVQ    0      -3.227   4.330   0.296  1.00  0.00           C
+HETATM   29  P36 ANVQ    0      -3.918   3.269   1.127  1.00  0.00           C
+HETATM   30  P35 ANVQ    0      -3.386   1.882   0.830  1.00  0.00           C
+HETATM   31  C34 ANVQ    0      -2.085   1.625   1.525  1.00  0.00           C
+HETATM   32   O4 ANVQ    0      -1.694   2.031   2.621  1.00  0.00           O
+HETATM   33   O3 ANVQ    0      -1.263   0.793   0.811  1.00  0.00           O
+HETATM   34  C33 ANVQ    0      -0.001   0.447   1.387  1.00  0.00           C
+HETATM   35  C32 ANVQ    0       1.014   1.569   1.236  1.00  0.00           C
+HETATM   36   O2 ANVQ    0       1.395   1.757  -0.130  1.00  0.00           O
+HETATM   37  C31 ANVQ    0       2.314   0.891  -0.660  1.00  0.00           C
+HETATM   38   O1 ANVQ    0       2.755  -0.008   0.060  1.00  0.00           O
+HETATM   39  P30 ANVQ    0       2.635   1.166  -2.097  1.00  0.00           C
+HETATM   40  P29 ANVQ    0       3.259   2.531  -2.301  1.00  0.00           C
+HETATM   41  P28 ANVQ    0       4.637   2.629  -1.680  1.00  0.00           C
+HETATM   42  P27 ANVQ    0       5.305   3.956  -1.971  1.00  0.00           C
+HETATM   43  P26 ANVQ    0       4.697   5.102  -1.188  1.00  0.00           C
+HETATM   44  P25 ANVQ    0       5.392   6.420  -1.474  1.00  0.00           C
+HETATM   45  P24 ANVQ    0       6.260   6.912  -0.335  1.00  0.00           C
+HETATM   46  P23 ANVQ    0       7.415   5.996   0.009  1.00  0.00           C
+HETATM   47  P22 ANVQ    0       8.473   5.951  -1.073  1.00  0.00           C
+HETATM   48  P21 ANVQ    0       9.638   5.057  -0.703  1.00  0.00           C
+HETATM   49  P20 ANVQ    0       9.322   3.579  -0.807  1.00  0.00           C
+HETATM   50  P19 ANVQ    0       9.349   3.080  -2.236  1.00  0.00           C
+HETATM   51  P18 ANVQ    0       8.908   1.633  -2.317  1.00  0.00           C
+HETATM   52  P17 ANVQ    0       9.114   1.075  -3.710  1.00  0.00           C
+HETATM   53  P16 ANVQ    0       8.618  -0.349  -3.845  1.00  0.00           C
+HETATM   54  P15 ANVQ    0       9.517  -1.375  -3.189  1.00  0.00           C
+HETATM   55  P14 ANVQ    0      10.773  -1.646  -3.990  1.00  0.00           C
+HETATM   56  P13 ANVQ    0      11.622  -2.714  -3.334  1.00  0.00           C
+HETATM   57  P12 ANVQ    0      12.928  -2.909  -4.073  1.00  0.00           C
+HETATM   58  P11 ANVQ    0      13.753  -4.049  -3.514  1.00  0.00           C
+HETATM   59  P10 ANVQ    0      14.265  -3.794  -2.109  1.00  0.00           C
+HETATM   60   P9 ANVQ    0      13.490  -4.574  -1.067  1.00  0.00           C
+HETATM   61   P8 ANVQ    0      13.921  -4.248   0.347  1.00  0.00           C
+HETATM   62   P7 ANVQ    0      15.280  -4.823   0.689  1.00  0.00           C
+HETATM   63   P6 ANVQ    0      15.669  -4.562   2.129  1.00  0.00           C
+HETATM   64   P5 ANVQ    0      14.979  -5.504   3.095  1.00  0.00           C
+HETATM   65   P4 ANVQ    0      15.399  -5.263   4.533  1.00  0.00           C
+HETATM   66   P3 ANVQ    0      16.252  -6.376   5.106  1.00  0.00           C
+HETATM   67   P2 ANVQ    0      17.632  -6.467   4.490  1.00  0.00           C
+HETATM   68   P1 ANVQ    0      18.547  -5.356   4.938  1.00  0.00           C
+CONECT    1    2
+CONECT    2    1    3
+CONECT    3    2    4
+CONECT    4    3    5
+CONECT    5    4    6
+CONECT    6    5    7
+CONECT    7    6    8
+CONECT    8    7    9
+CONECT    9    8   10
+CONECT   10    9   11
+CONECT   11   10   12
+CONECT   12   11   13
+CONECT   13   12   14
+CONECT   14   13   15
+CONECT   15   14   16
+CONECT   16   15   17
+CONECT   17   16   18
+CONECT   18   17   19
+CONECT   19   18   20
+CONECT   20   19   21
+CONECT   21   20   22
+CONECT   22   21   23
+CONECT   23   22   24
+CONECT   24   23   25
+CONECT   25   24   26
+CONECT   26   25   27
+CONECT   27   26   28
+CONECT   28   27   29
+CONECT   29   28   30
+CONECT   30   29   31
+CONECT   31   30   32   33
+CONECT   32   31
+CONECT   33   31   34
+CONECT   34   33   35
+CONECT   35   34   36
+CONECT   36   35   37
+CONECT   37   36   38   39
+CONECT   38   37
+CONECT   39   37   40
+CONECT   40   39   41
+CONECT   41   40   42
+CONECT   42   41   43
+CONECT   43   42   44
+CONECT   44   43   45
+CONECT   45   44   46
+CONECT   46   45   47
+CONECT   47   46   48
+CONECT   48   47   49
+CONECT   49   48   50
+CONECT   50   49   51
+CONECT   51   50   52
+CONECT   52   51   53
+CONECT   53   52   54
+CONECT   54   53   55
+CONECT   55   54   56
+CONECT   56   55   57
+CONECT   57   56   58
+CONECT   58   57   59
+CONECT   59   58   60
+CONECT   60   59   61
+CONECT   61   60   62
+CONECT   62   61   63
+CONECT   63   62   64
+CONECT   64   63   65
+CONECT   65   64   66
+CONECT   66   65   67
+CONECT   67   66   68
+CONECT   68   67
+END
+

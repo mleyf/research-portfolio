@@ -1,0 +1,92 @@
+HEADER    UNCLASSIFIED                            15-Mar-24
+TITLE     UNITED ATOM STRUCTURE FOR MOLECULE UNL                                
+AUTHOR    AUTOMATED TOPOLOGY BUILDER (ATB) REVISION 2023-06-14 20:38:16
+AUTHOR   2  https://atb.uq.edu.au
+HETATM    1  P41 PEVV    0      17.461   5.212  -0.219  1.00  0.00           C
+HETATM    2  P40 PEVV    0      16.439   4.410   0.545  1.00  0.00           C
+HETATM    3  P39 PEVV    0      15.136   5.168   0.687  1.00  0.00           C
+HETATM    4  P38 PEVV    0      14.094   4.395   1.467  1.00  0.00           C
+HETATM    5  P37 PEVV    0      13.466   3.284   0.653  1.00  0.00           C
+HETATM    6  P36 PEVV    0      12.410   2.548   1.450  1.00  0.00           C
+HETATM    7  P35 PEVV    0      11.786   1.435   0.635  1.00  0.00           C
+HETATM    8  P34 PEVV    0      10.733   0.695   1.432  1.00  0.00           C
+HETATM    9  P33 PEVV    0      10.113  -0.447   0.655  1.00  0.00           C
+HETATM   10  P32 PEVV    0       9.086   0.031  -0.349  1.00  0.00           C
+HETATM   11  P31 PEVV    0       8.582  -1.079  -1.247  1.00  0.00           C
+HETATM   12  P30 PEVV    0       7.807  -2.165  -0.531  1.00  0.00           C
+HETATM   13  P29 PEVV    0       6.529  -1.701   0.134  1.00  0.00           C
+HETATM   14  P28 PEVV    0       5.509  -1.088  -0.801  1.00  0.00           C
+HETATM   15  P27 PEVV    0       5.081  -1.976  -1.949  1.00  0.00           C
+HETATM   16  P26 PEVV    0       4.508  -3.315  -1.537  1.00  0.00           C
+HETATM   17  P25 PEVV    0       3.277  -3.236  -0.660  1.00  0.00           C
+HETATM   18  P24 PEVV    0       2.108  -2.484  -1.259  1.00  0.00           C
+HETATM   19  P23 PEVV    0       1.571  -3.064  -2.549  1.00  0.00           C
+HETATM   20  P22 PEVV    0       0.883  -4.404  -2.363  1.00  0.00           C
+HETATM   21   O2 PEVV    0      -0.318  -4.170  -1.628  1.00  0.00           O
+HETATM   22  C21 PEVV    0      -0.985  -5.370  -1.269  1.00  0.00           C
+HETATM   23   O1 PEVV    0      -2.008  -4.936  -0.411  1.00  0.00           O
+HETATM   24  P20 PEVV    0      -1.537  -4.364   0.815  1.00  0.00           C
+HETATM   25  P19 PEVV    0      -2.751  -4.148   1.702  1.00  0.00           C
+HETATM   26  P18 PEVV    0      -3.634  -3.032   1.189  1.00  0.00           C
+HETATM   27  P17 PEVV    0      -4.804  -2.744   2.104  1.00  0.00           C
+HETATM   28  P16 PEVV    0      -5.788  -3.885   2.253  1.00  0.00           C
+HETATM   29  P15 PEVV    0      -6.415  -4.355   0.958  1.00  0.00           C
+HETATM   30  P14 PEVV    0      -7.216  -3.298   0.229  1.00  0.00           C
+HETATM   31  P13 PEVV    0      -8.447  -2.863   0.997  1.00  0.00           C
+HETATM   32  P12 PEVV    0      -9.338  -1.943   0.188  1.00  0.00           C
+HETATM   33  P11 PEVV    0      -8.778  -0.539   0.089  1.00  0.00           C
+HETATM   34  P10 PEVV    0      -9.655   0.372  -0.746  1.00  0.00           C
+HETATM   35   P9 PEVV    0     -10.858   0.906   0.004  1.00  0.00           C
+HETATM   36   P8 PEVV    0     -10.499   2.057   0.922  1.00  0.00           C
+HETATM   37   P7 PEVV    0     -11.704   2.606   1.658  1.00  0.00           C
+HETATM   38   P6 PEVV    0     -12.585   3.493   0.804  1.00  0.00           C
+HETATM   39   P5 PEVV    0     -11.999   4.877   0.608  1.00  0.00           C
+HETATM   40   P4 PEVV    0     -12.943   5.764  -0.176  1.00  0.00           C
+HETATM   41   P3 PEVV    0     -12.343   7.123  -0.472  1.00  0.00           C
+HETATM   42   P2 PEVV    0     -11.388   7.089  -1.648  1.00  0.00           C
+HETATM   43   P1 PEVV    0     -10.795   8.448  -1.917  1.00  0.00           C
+CONECT    1    2
+CONECT    2    1    3
+CONECT    3    2    4
+CONECT    4    3    5
+CONECT    5    4    6
+CONECT    6    5    7
+CONECT    7    6    8
+CONECT    8    7    9
+CONECT    9    8   10
+CONECT   10    9   11
+CONECT   11   10   12
+CONECT   12   11   13
+CONECT   13   12   14
+CONECT   14   13   15
+CONECT   15   14   16
+CONECT   16   15   17
+CONECT   17   16   18
+CONECT   18   17   19
+CONECT   19   18   20
+CONECT   20   19   21
+CONECT   21   20   22
+CONECT   22   21   23
+CONECT   23   22   24
+CONECT   24   23   25
+CONECT   25   24   26
+CONECT   26   25   27
+CONECT   27   26   28
+CONECT   28   27   29
+CONECT   29   28   30
+CONECT   30   29   31
+CONECT   31   30   32
+CONECT   32   31   33
+CONECT   33   32   34
+CONECT   34   33   35
+CONECT   35   34   36
+CONECT   36   35   37
+CONECT   37   36   38
+CONECT   38   37   39
+CONECT   39   38   40
+CONECT   40   39   41
+CONECT   41   40   42
+CONECT   42   41   43
+CONECT   43   42
+END
+

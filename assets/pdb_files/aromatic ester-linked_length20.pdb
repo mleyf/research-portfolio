@@ -1,0 +1,106 @@
+HEADER    UNCLASSIFIED                            28-Feb-24
+TITLE     UNITED ATOM STRUCTURE FOR MOLECULE UNL                                
+AUTHOR    AUTOMATED TOPOLOGY BUILDER (ATB) REVISION 2023-06-14 20:38:16
+AUTHOR   2  https://atb.uq.edu.au
+HETATM    1  P32 9PYZ    0      12.970  -3.593  -0.981  1.00  0.00           C
+HETATM    2  P31 9PYZ    0      12.087  -2.482  -1.488  1.00  0.00           C
+HETATM    3  P30 9PYZ    0      11.342  -1.764  -0.383  1.00  0.00           C
+HETATM    4  P29 9PYZ    0      10.353  -2.628   0.369  1.00  0.00           C
+HETATM    5  P28 9PYZ    0       9.164  -3.030  -0.477  1.00  0.00           C
+HETATM    6  P27 9PYZ    0       8.172  -3.891   0.275  1.00  0.00           C
+HETATM    7  P26 9PYZ    0       7.464  -3.188   1.413  1.00  0.00           C
+HETATM    8  P25 9PYZ    0       6.661  -1.991   0.950  1.00  0.00           C
+HETATM    9  P24 9PYZ    0       5.780  -1.458   2.059  1.00  0.00           C
+HETATM   10  P23 9PYZ    0       5.027  -0.213   1.626  1.00  0.00           C
+HETATM   11   O6 9PYZ    0       4.040  -0.648   0.678  1.00  0.00           O
+HETATM   12  C22 9PYZ    0       3.311   0.345   0.066  1.00  0.00           C
+HETATM   13  C21 9PYZ    0       3.375   1.704   0.404  1.00  0.00           C
+HETATM   14  H29 9PYZ    0       4.041   2.061   1.202  1.00  0.00           H
+HETATM   15  C20 9PYZ    0       2.575   2.616  -0.280  1.00  0.00           C
+HETATM   16  H28 9PYZ    0       2.608   3.686  -0.016  1.00  0.00           H
+HETATM   17  C19 9PYZ    0       1.718   2.180  -1.296  1.00  0.00           C
+HETATM   18  C34 9PYZ    0       1.659   0.817  -1.629  1.00  0.00           C
+HETATM   19  H52 9PYZ    0       0.976   0.488  -2.431  1.00  0.00           H
+HETATM   20  C33 9PYZ    0       2.449  -0.103  -0.956  1.00  0.00           C
+HETATM   21  H51 9PYZ    0       2.415  -1.173  -1.204  1.00  0.00           H
+HETATM   22  C18 9PYZ    0       0.849   3.115  -2.019  1.00  0.00           C
+HETATM   23   O5 9PYZ    0       0.028   2.855  -2.904  1.00  0.00           O
+HETATM   24   O4 9PYZ    0       1.013   4.426  -1.644  1.00  0.00           O
+HETATM   25  C17 9PYZ    0       0.081   5.396  -2.129  1.00  0.00           C
+HETATM   26  C16 9PYZ    0      -0.680   5.975  -0.941  1.00  0.00           C
+HETATM   27   O3 9PYZ    0      -1.706   5.054  -0.559  1.00  0.00           O
+HETATM   28  C15 9PYZ    0      -1.604   4.427   0.658  1.00  0.00           C
+HETATM   29   O2 9PYZ    0      -0.726   4.803   1.442  1.00  0.00           O
+HETATM   30  C14 9PYZ    0      -2.599   3.370   0.866  1.00  0.00           C
+HETATM   31  C13 9PYZ    0      -3.546   3.049  -0.119  1.00  0.00           C
+HETATM   32  H23 9PYZ    0      -3.549   3.604  -1.071  1.00  0.00           H
+HETATM   33  C12 9PYZ    0      -4.468   2.036   0.101  1.00  0.00           C
+HETATM   34  H22 9PYZ    0      -5.217   1.773  -0.660  1.00  0.00           H
+HETATM   35  C11 9PYZ    0      -4.441   1.329   1.321  1.00  0.00           C
+HETATM   36  C36 9PYZ    0      -3.495   1.641   2.308  1.00  0.00           C
+HETATM   37  H54 9PYZ    0      -3.463   1.092   3.259  1.00  0.00           H
+HETATM   38  C35 9PYZ    0      -2.579   2.663   2.075  1.00  0.00           C
+HETATM   39  H53 9PYZ    0      -1.829   2.922   2.840  1.00  0.00           H
+HETATM   40   O1 9PYZ    0      -5.405   0.355   1.441  1.00  0.00           O
+HETATM   41  P10 9PYZ    0      -5.344  -0.451   2.629  1.00  0.00           C
+HETATM   42   P9 9PYZ    0      -6.480  -1.452   2.527  1.00  0.00           C
+HETATM   43   P8 9PYZ    0      -6.246  -2.466   1.429  1.00  0.00           C
+HETATM   44   P7 9PYZ    0      -7.282  -3.569   1.423  1.00  0.00           C
+HETATM   45   P6 9PYZ    0      -8.705  -3.098   1.211  1.00  0.00           C
+HETATM   46   P5 9PYZ    0      -8.927  -2.293  -0.051  1.00  0.00           C
+HETATM   47   P4 9PYZ    0      -8.535  -3.003  -1.328  1.00  0.00           C
+HETATM   48   P3 9PYZ    0      -9.347  -4.256  -1.577  1.00  0.00           C
+HETATM   49   P2 9PYZ    0      -9.035  -4.852  -2.934  1.00  0.00           C
+HETATM   50   P1 9PYZ    0      -9.806  -6.125  -3.169  1.00  0.00           C
+CONECT    1    2
+CONECT    2    1    3
+CONECT    3    2    4
+CONECT    4    3    5
+CONECT    5    4    6
+CONECT    6    5    7
+CONECT    7    6    8
+CONECT    8    7    9
+CONECT    9    8   10
+CONECT   10    9   11
+CONECT   11   10   12
+CONECT   12   11   13   20
+CONECT   13   12   14   15
+CONECT   14   13
+CONECT   15   13   16   17
+CONECT   16   15
+CONECT   17   15   18   22
+CONECT   18   17   19   20
+CONECT   19   18
+CONECT   20   12   18   21
+CONECT   21   20
+CONECT   22   17   23   24
+CONECT   23   22
+CONECT   24   22   25
+CONECT   25   24   26
+CONECT   26   25   27
+CONECT   27   26   28
+CONECT   28   27   29   30
+CONECT   29   28
+CONECT   30   28   31   38
+CONECT   31   30   32   33
+CONECT   32   31
+CONECT   33   31   34   35
+CONECT   34   33
+CONECT   35   33   36   40
+CONECT   36   35   37   38
+CONECT   37   36
+CONECT   38   30   36   39
+CONECT   39   38
+CONECT   40   35   41
+CONECT   41   40   42
+CONECT   42   41   43
+CONECT   43   42   44
+CONECT   44   43   45
+CONECT   45   44   46
+CONECT   46   45   47
+CONECT   47   46   48
+CONECT   48   47   49
+CONECT   49   48   50
+CONECT   50   49
+END
+

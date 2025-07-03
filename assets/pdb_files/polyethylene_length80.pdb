@@ -1,0 +1,166 @@
+HEADER    UNCLASSIFIED                            24-Aug-23
+TITLE     UNITED ATOM STRUCTURE FOR MOLECULE ETH                                
+AUTHOR    AUTOMATED TOPOLOGY BUILDER (ATB) REVISION 2023-06-14 20:38:16
+AUTHOR   2  https://atb.uq.edu.au
+HETATM    1  P80 MAVT    0     -49.386   0.423  -0.000  1.00  0.00           C
+HETATM    2  P79 MAVT    0     -48.145  -0.431  -0.000  1.00  0.00           C
+HETATM    3  P78 MAVT    0     -46.891   0.418  -0.000  1.00  0.00           C
+HETATM    4  P77 MAVT    0     -45.643  -0.439  -0.000  1.00  0.00           C
+HETATM    5  P76 MAVT    0     -44.392   0.413  -0.000  1.00  0.00           C
+HETATM    6  P75 MAVT    0     -43.143  -0.442  -0.000  1.00  0.00           C
+HETATM    7  P74 MAVT    0     -41.892   0.411  -0.000  1.00  0.00           C
+HETATM    8  P73 MAVT    0     -40.643  -0.443  -0.000  1.00  0.00           C
+HETATM    9  P72 MAVT    0     -39.392   0.410  -0.000  1.00  0.00           C
+HETATM   10  P71 MAVT    0     -38.142  -0.443  -0.000  1.00  0.00           C
+HETATM   11  P70 MAVT    0     -36.892   0.411  -0.000  1.00  0.00           C
+HETATM   12  P69 MAVT    0     -35.642  -0.442  -0.000  1.00  0.00           C
+HETATM   13  P68 MAVT    0     -34.392   0.412  -0.000  1.00  0.00           C
+HETATM   14  P67 MAVT    0     -33.141  -0.441  -0.000  1.00  0.00           C
+HETATM   15  P66 MAVT    0     -31.891   0.413  -0.000  1.00  0.00           C
+HETATM   16  P65 MAVT    0     -30.640  -0.440  -0.000  1.00  0.00           C
+HETATM   17  P64 MAVT    0     -29.390   0.415  -0.000  1.00  0.00           C
+HETATM   18  P63 MAVT    0     -28.139  -0.438  -0.000  1.00  0.00           C
+HETATM   19  P62 MAVT    0     -26.889   0.416  -0.000  1.00  0.00           C
+HETATM   20  P61 MAVT    0     -25.638  -0.437  -0.000  1.00  0.00           C
+HETATM   21  P60 MAVT    0     -24.388   0.417   0.000  1.00  0.00           C
+HETATM   22  P59 MAVT    0     -23.137  -0.436  -0.000  1.00  0.00           C
+HETATM   23  P58 MAVT    0     -21.886   0.418   0.000  1.00  0.00           C
+HETATM   24  P57 MAVT    0     -20.635  -0.435   0.000  1.00  0.00           C
+HETATM   25  P56 MAVT    0     -19.385   0.419   0.000  1.00  0.00           C
+HETATM   26  P55 MAVT    0     -18.134  -0.434   0.000  1.00  0.00           C
+HETATM   27  P54 MAVT    0     -16.883   0.420   0.000  1.00  0.00           C
+HETATM   28  P53 MAVT    0     -15.632  -0.433   0.000  1.00  0.00           C
+HETATM   29  P52 MAVT    0     -14.381   0.421   0.000  1.00  0.00           C
+HETATM   30  P51 MAVT    0     -13.130  -0.432   0.000  1.00  0.00           C
+HETATM   31  P50 MAVT    0     -11.879   0.422   0.000  1.00  0.00           C
+HETATM   32  P49 MAVT    0     -10.628  -0.431   0.000  1.00  0.00           C
+HETATM   33  P48 MAVT    0      -9.377   0.423   0.000  1.00  0.00           C
+HETATM   34  P47 MAVT    0      -8.126  -0.430   0.000  1.00  0.00           C
+HETATM   35  P46 MAVT    0      -6.875   0.424   0.000  1.00  0.00           C
+HETATM   36  P45 MAVT    0      -5.624  -0.429   0.000  1.00  0.00           C
+HETATM   37  P44 MAVT    0      -4.373   0.425   0.000  1.00  0.00           C
+HETATM   38  P43 MAVT    0      -3.122  -0.428   0.000  1.00  0.00           C
+HETATM   39  P42 MAVT    0      -1.871   0.426   0.000  1.00  0.00           C
+HETATM   40  P41 MAVT    0      -0.620  -0.427   0.000  1.00  0.00           C
+HETATM   41  P40 MAVT    0       0.631   0.427   0.000  1.00  0.00           C
+HETATM   42  P39 MAVT    0       1.882  -0.426   0.000  1.00  0.00           C
+HETATM   43  P38 MAVT    0       3.133   0.428   0.000  1.00  0.00           C
+HETATM   44  P37 MAVT    0       4.384  -0.425   0.000  1.00  0.00           C
+HETATM   45  P36 MAVT    0       5.635   0.429   0.000  1.00  0.00           C
+HETATM   46  P35 MAVT    0       6.886  -0.424   0.000  1.00  0.00           C
+HETATM   47  P34 MAVT    0       8.137   0.430   0.000  1.00  0.00           C
+HETATM   48  P33 MAVT    0       9.388  -0.423   0.000  1.00  0.00           C
+HETATM   49  P32 MAVT    0      10.639   0.431   0.000  1.00  0.00           C
+HETATM   50  P31 MAVT    0      11.890  -0.422   0.000  1.00  0.00           C
+HETATM   51  P30 MAVT    0      13.141   0.432   0.000  1.00  0.00           C
+HETATM   52  P29 MAVT    0      14.392  -0.421   0.000  1.00  0.00           C
+HETATM   53  P28 MAVT    0      15.643   0.433   0.000  1.00  0.00           C
+HETATM   54  P27 MAVT    0      16.894  -0.420   0.000  1.00  0.00           C
+HETATM   55  P26 MAVT    0      18.144   0.434   0.000  1.00  0.00           C
+HETATM   56  P25 MAVT    0      19.395  -0.419   0.000  1.00  0.00           C
+HETATM   57  P24 MAVT    0      20.646   0.435   0.000  1.00  0.00           C
+HETATM   58  P23 MAVT    0      21.897  -0.418   0.000  1.00  0.00           C
+HETATM   59  P22 MAVT    0      23.147   0.436  -0.000  1.00  0.00           C
+HETATM   60  P21 MAVT    0      24.398  -0.417  -0.000  1.00  0.00           C
+HETATM   61  P20 MAVT    0      25.649   0.437  -0.000  1.00  0.00           C
+HETATM   62  P19 MAVT    0      26.900  -0.416  -0.000  1.00  0.00           C
+HETATM   63  P18 MAVT    0      28.150   0.438  -0.000  1.00  0.00           C
+HETATM   64  P17 MAVT    0      29.401  -0.414  -0.000  1.00  0.00           C
+HETATM   65  P16 MAVT    0      30.651   0.440  -0.000  1.00  0.00           C
+HETATM   66  P15 MAVT    0      31.902  -0.413  -0.000  1.00  0.00           C
+HETATM   67  P14 MAVT    0      33.152   0.441  -0.000  1.00  0.00           C
+HETATM   68  P13 MAVT    0      34.402  -0.412  -0.000  1.00  0.00           C
+HETATM   69  P12 MAVT    0      35.652   0.442  -0.000  1.00  0.00           C
+HETATM   70  P11 MAVT    0      36.903  -0.411  -0.000  1.00  0.00           C
+HETATM   71  P10 MAVT    0      38.153   0.443  -0.000  1.00  0.00           C
+HETATM   72   P9 MAVT    0      39.403  -0.411  -0.000  1.00  0.00           C
+HETATM   73   P8 MAVT    0      40.653   0.443  -0.000  1.00  0.00           C
+HETATM   74   P7 MAVT    0      41.903  -0.411  -0.000  1.00  0.00           C
+HETATM   75   P6 MAVT    0      43.154   0.442  -0.000  1.00  0.00           C
+HETATM   76   P5 MAVT    0      44.403  -0.413  -0.000  1.00  0.00           C
+HETATM   77   P4 MAVT    0      45.654   0.439  -0.000  1.00  0.00           C
+HETATM   78   P3 MAVT    0      46.902  -0.417  -0.000  1.00  0.00           C
+HETATM   79   P2 MAVT    0      48.155   0.432  -0.000  1.00  0.00           C
+HETATM   80   P1 MAVT    0      49.397  -0.421  -0.000  1.00  0.00           C
+CONECT    1    2
+CONECT    2    1    3
+CONECT    3    2    4
+CONECT    4    3    5
+CONECT    5    4    6
+CONECT    6    5    7
+CONECT    7    6    8
+CONECT    8    7    9
+CONECT    9    8   10
+CONECT   10    9   11
+CONECT   11   10   12
+CONECT   12   11   13
+CONECT   13   12   14
+CONECT   14   13   15
+CONECT   15   14   16
+CONECT   16   15   17
+CONECT   17   16   18
+CONECT   18   17   19
+CONECT   19   18   20
+CONECT   20   19   21
+CONECT   21   20   22
+CONECT   22   21   23
+CONECT   23   22   24
+CONECT   24   23   25
+CONECT   25   24   26
+CONECT   26   25   27
+CONECT   27   26   28
+CONECT   28   27   29
+CONECT   29   28   30
+CONECT   30   29   31
+CONECT   31   30   32
+CONECT   32   31   33
+CONECT   33   32   34
+CONECT   34   33   35
+CONECT   35   34   36
+CONECT   36   35   37
+CONECT   37   36   38
+CONECT   38   37   39
+CONECT   39   38   40
+CONECT   40   39   41
+CONECT   41   40   42
+CONECT   42   41   43
+CONECT   43   42   44
+CONECT   44   43   45
+CONECT   45   44   46
+CONECT   46   45   47
+CONECT   47   46   48
+CONECT   48   47   49
+CONECT   49   48   50
+CONECT   50   49   51
+CONECT   51   50   52
+CONECT   52   51   53
+CONECT   53   52   54
+CONECT   54   53   55
+CONECT   55   54   56
+CONECT   56   55   57
+CONECT   57   56   58
+CONECT   58   57   59
+CONECT   59   58   60
+CONECT   60   59   61
+CONECT   61   60   62
+CONECT   62   61   63
+CONECT   63   62   64
+CONECT   64   63   65
+CONECT   65   64   66
+CONECT   66   65   67
+CONECT   67   66   68
+CONECT   68   67   69
+CONECT   69   68   70
+CONECT   70   69   71
+CONECT   71   70   72
+CONECT   72   71   73
+CONECT   73   72   74
+CONECT   74   73   75
+CONECT   75   74   76
+CONECT   76   75   77
+CONECT   77   76   78
+CONECT   78   77   79
+CONECT   79   78   80
+CONECT   80   79
+END
+

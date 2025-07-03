@@ -1,0 +1,114 @@
+HEADER    UNCLASSIFIED                            28-Feb-24
+TITLE     UNITED ATOM STRUCTURE FOR MOLECULE UNL                                
+AUTHOR    AUTOMATED TOPOLOGY BUILDER (ATB) REVISION 2023-06-14 20:38:16
+AUTHOR   2  https://atb.uq.edu.au
+HETATM    1  P48 NMMS    0     -15.690  -0.972   1.104  1.00  0.00           C
+HETATM    2  P47 NMMS    0     -15.860  -2.244   1.895  1.00  0.00           C
+HETATM    3  P46 NMMS    0     -15.187  -3.433   1.241  1.00  0.00           C
+HETATM    4  P45 NMMS    0     -15.903  -3.883  -0.015  1.00  0.00           C
+HETATM    5  P44 NMMS    0     -15.377  -5.197  -0.552  1.00  0.00           C
+HETATM    6  P43 NMMS    0     -13.923  -5.164  -0.972  1.00  0.00           C
+HETATM    7  P42 NMMS    0     -13.671  -4.230  -2.136  1.00  0.00           C
+HETATM    8  P41 NMMS    0     -12.252  -4.315  -2.659  1.00  0.00           C
+HETATM    9  P40 NMMS    0     -11.193  -3.886  -1.667  1.00  0.00           C
+HETATM   10  P39 NMMS    0     -11.327  -2.436  -1.252  1.00  0.00           C
+HETATM   11  P38 NMMS    0     -10.160  -2.004  -0.388  1.00  0.00           C
+HETATM   12  P37 NMMS    0     -10.273  -0.558   0.049  1.00  0.00           C
+HETATM   13  P36 NMMS    0      -9.818   0.403  -1.030  1.00  0.00           C
+HETATM   14  P35 NMMS    0     -10.008   1.853  -0.637  1.00  0.00           C
+HETATM   15  P34 NMMS    0      -8.980   2.352   0.357  1.00  0.00           C
+HETATM   16  P33 NMMS    0      -7.635   2.661  -0.267  1.00  0.00           C
+HETATM   17  P32 NMMS    0      -7.623   3.992  -0.990  1.00  0.00           C
+HETATM   18  P31 NMMS    0      -6.254   4.329  -1.545  1.00  0.00           C
+HETATM   19  P30 NMMS    0      -5.322   4.867  -0.479  1.00  0.00           C
+HETATM   20  P29 NMMS    0      -3.959   5.215  -1.037  1.00  0.00           C
+HETATM   21  C28 NMMS    0      -3.098   3.986  -1.274  1.00  0.00           C
+HETATM   22   O2 NMMS    0      -3.491   2.829  -1.022  1.00  0.00           O
+HETATM   23   N2 NMMS    0      -1.842   4.207  -1.810  1.00  0.00           N
+HETATM   24  H55 NMMS    0      -1.524   5.139  -1.921  1.00  0.00           H
+HETATM   25  C27 NMMS    0      -0.894   3.155  -2.040  1.00  0.00           C
+HETATM   26  C26 NMMS    0       0.319   3.145  -1.108  1.00  0.00           C
+HETATM   27  C25 NMMS    0      -0.013   2.951   0.354  1.00  0.00           C
+HETATM   28  C24 NMMS    0      -0.694   1.627   0.628  1.00  0.00           C
+HETATM   29  C23 NMMS    0      -0.984   1.411   2.097  1.00  0.00           C
+HETATM   30  C22 NMMS    0       0.256   1.265   2.977  1.00  0.00           C
+HETATM   31   N1 NMMS    0       1.081   0.137   2.655  1.00  0.00           N
+HETATM   32  H42 NMMS    0       0.686  -0.583   2.095  1.00  0.00           H
+HETATM   33  C21 NMMS    0       2.388  -0.009   3.068  1.00  0.00           C
+HETATM   34   O1 NMMS    0       3.009  -1.040   2.728  1.00  0.00           O
+HETATM   35  P20 NMMS    0       3.045   1.059   3.919  1.00  0.00           C
+HETATM   36  P19 NMMS    0       3.678   2.139   3.065  1.00  0.00           C
+HETATM   37  P18 NMMS    0       4.937   1.668   2.364  1.00  0.00           C
+HETATM   38  P17 NMMS    0       6.151   1.724   3.266  1.00  0.00           C
+HETATM   39  P16 NMMS    0       7.415   1.283   2.557  1.00  0.00           C
+HETATM   40  P15 NMMS    0       7.989   2.370   1.672  1.00  0.00           C
+HETATM   41  P14 NMMS    0       9.273   1.941   0.993  1.00  0.00           C
+HETATM   42  P13 NMMS    0       9.020   1.073  -0.222  1.00  0.00           C
+HETATM   43  P12 NMMS    0      10.301   0.559  -0.844  1.00  0.00           C
+HETATM   44  P11 NMMS    0      11.074   1.645  -1.563  1.00  0.00           C
+HETATM   45  P10 NMMS    0      12.293   1.108  -2.284  1.00  0.00           C
+HETATM   46   P9 NMMS    0      13.358   0.612  -1.329  1.00  0.00           C
+HETATM   47   P8 NMMS    0      14.678   0.327  -2.014  1.00  0.00           C
+HETATM   48   P7 NMMS    0      14.642  -0.832  -2.987  1.00  0.00           C
+HETATM   49   P6 NMMS    0      14.434  -2.186  -2.342  1.00  0.00           C
+HETATM   50   P5 NMMS    0      15.624  -2.638  -1.521  1.00  0.00           C
+HETATM   51   P4 NMMS    0      15.432  -4.054  -1.019  1.00  0.00           C
+HETATM   52   P3 NMMS    0      16.585  -4.488  -0.139  1.00  0.00           C
+HETATM   53   P2 NMMS    0      16.402  -5.911   0.346  1.00  0.00           C
+HETATM   54   P1 NMMS    0      17.537  -6.343   1.238  1.00  0.00           C
+CONECT    1    2
+CONECT    2    1    3
+CONECT    3    2    4
+CONECT    4    3    5
+CONECT    5    4    6
+CONECT    6    5    7
+CONECT    7    6    8
+CONECT    8    7    9
+CONECT    9    8   10
+CONECT   10    9   11
+CONECT   11   10   12
+CONECT   12   11   13
+CONECT   13   12   14
+CONECT   14   13   15
+CONECT   15   14   16
+CONECT   16   15   17
+CONECT   17   16   18
+CONECT   18   17   19
+CONECT   19   18   20
+CONECT   20   19   21
+CONECT   21   20   22   23
+CONECT   22   21
+CONECT   23   21   24   25
+CONECT   24   23
+CONECT   25   23   26
+CONECT   26   25   27
+CONECT   27   26   28
+CONECT   28   27   29
+CONECT   29   28   30
+CONECT   30   29   31
+CONECT   31   30   32   33
+CONECT   32   31
+CONECT   33   31   34   35
+CONECT   34   33
+CONECT   35   33   36
+CONECT   36   35   37
+CONECT   37   36   38
+CONECT   38   37   39
+CONECT   39   38   40
+CONECT   40   39   41
+CONECT   41   40   42
+CONECT   42   41   43
+CONECT   43   42   44
+CONECT   44   43   45
+CONECT   45   44   46
+CONECT   46   45   47
+CONECT   47   46   48
+CONECT   48   47   49
+CONECT   49   48   50
+CONECT   50   49   51
+CONECT   51   50   52
+CONECT   52   51   53
+CONECT   53   52   54
+CONECT   54   53
+END
+

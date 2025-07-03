@@ -1,0 +1,132 @@
+HEADER    UNCLASSIFIED                            15-Mar-24
+TITLE     UNITED ATOM STRUCTURE FOR MOLECULE UNL                                
+AUTHOR    AUTOMATED TOPOLOGY BUILDER (ATB) REVISION 2023-06-14 20:38:16
+AUTHOR   2  https://atb.uq.edu.au
+HETATM    1  P61 7NO8    0     -23.962   3.943  -2.034  1.00  0.00           C
+HETATM    2  P60 7NO8    0     -22.461   3.923  -1.905  1.00  0.00           C
+HETATM    3  P59 7NO8    0     -21.974   4.964  -0.918  1.00  0.00           C
+HETATM    4  P58 7NO8    0     -20.464   4.958  -0.814  1.00  0.00           C
+HETATM    5  P57 7NO8    0     -19.978   5.969   0.203  1.00  0.00           C
+HETATM    6  P56 7NO8    0     -18.468   6.026   0.286  1.00  0.00           C
+HETATM    7  P55 7NO8    0     -17.885   4.853   1.047  1.00  0.00           C
+HETATM    8  P54 7NO8    0     -16.372   4.917   1.071  1.00  0.00           C
+HETATM    9  P53 7NO8    0     -15.750   3.809   1.894  1.00  0.00           C
+HETATM   10  P52 7NO8    0     -15.870   2.431   1.278  1.00  0.00           C
+HETATM   11  P51 7NO8    0     -15.014   2.264   0.041  1.00  0.00           C
+HETATM   12  P50 7NO8    0     -15.079   0.859  -0.521  1.00  0.00           C
+HETATM   13  P49 7NO8    0     -14.250  -0.125   0.276  1.00  0.00           C
+HETATM   14  P48 7NO8    0     -14.265  -1.497  -0.364  1.00  0.00           C
+HETATM   15  P47 7NO8    0     -13.513  -2.528   0.451  1.00  0.00           C
+HETATM   16  P46 7NO8    0     -12.022  -2.259   0.536  1.00  0.00           C
+HETATM   17  P45 7NO8    0     -11.616  -1.704   1.885  1.00  0.00           C
+HETATM   18  P44 7NO8    0     -10.160  -1.293   1.936  1.00  0.00           C
+HETATM   19  P43 7NO8    0      -9.196  -2.457   1.805  1.00  0.00           C
+HETATM   20  P42 7NO8    0      -8.572  -2.530   0.427  1.00  0.00           C
+HETATM   21  P41 7NO8    0      -7.655  -3.727   0.295  1.00  0.00           C
+HETATM   22  P40 7NO8    0      -6.983  -3.750  -1.061  1.00  0.00           C
+HETATM   23  P39 7NO8    0      -6.137  -4.986  -1.280  1.00  0.00           C
+HETATM   24  P38 7NO8    0      -4.959  -5.121  -0.339  1.00  0.00           C
+HETATM   25  P37 7NO8    0      -3.991  -3.958  -0.358  1.00  0.00           C
+HETATM   26  P36 7NO8    0      -3.396  -3.648  -1.714  1.00  0.00           C
+HETATM   27  P35 7NO8    0      -2.614  -4.782  -2.339  1.00  0.00           C
+HETATM   28  P34 7NO8    0      -1.456  -5.289  -1.508  1.00  0.00           C
+HETATM   29  P33 7NO8    0      -0.431  -4.219  -1.205  1.00  0.00           C
+HETATM   30  P32 7NO8    0       0.786  -4.785  -0.497  1.00  0.00           C
+HETATM   31   O2 7NO8    0       0.461  -5.402   0.745  1.00  0.00           O
+HETATM   32  C31 7NO8    0       0.225  -4.520   1.819  1.00  0.00           C
+HETATM   33   O1 7NO8    0       1.423  -3.825   2.080  1.00  0.00           O
+HETATM   34  P30 7NO8    0       2.491  -4.657   2.538  1.00  0.00           C
+HETATM   35  P29 7NO8    0       3.704  -3.765   2.731  1.00  0.00           C
+HETATM   36  P28 7NO8    0       4.246  -3.219   1.427  1.00  0.00           C
+HETATM   37  P27 7NO8    0       5.049  -4.245   0.654  1.00  0.00           C
+HETATM   38  P26 7NO8    0       5.628  -3.674  -0.625  1.00  0.00           C
+HETATM   39  P25 7NO8    0       6.854  -2.821  -0.376  1.00  0.00           C
+HETATM   40  P24 7NO8    0       7.399  -2.257  -1.671  1.00  0.00           C
+HETATM   41  P23 7NO8    0       8.604  -1.366  -1.453  1.00  0.00           C
+HETATM   42  P22 7NO8    0       9.868  -2.156  -1.188  1.00  0.00           C
+HETATM   43  P21 7NO8    0      11.071  -1.263  -0.967  1.00  0.00           C
+HETATM   44  P20 7NO8    0      11.525  -0.578  -2.239  1.00  0.00           C
+HETATM   45  P19 7NO8    0      12.881   0.079  -2.101  1.00  0.00           C
+HETATM   46  P18 7NO8    0      12.944   1.178  -1.063  1.00  0.00           C
+HETATM   47  P17 7NO8    0      12.001   2.337  -1.300  1.00  0.00           C
+HETATM   48  P16 7NO8    0      12.161   3.029  -2.636  1.00  0.00           C
+HETATM   49  P15 7NO8    0      13.555   3.536  -2.932  1.00  0.00           C
+HETATM   50  P14 7NO8    0      14.113   4.504  -1.911  1.00  0.00           C
+HETATM   51  P13 7NO8    0      13.290   5.767  -1.774  1.00  0.00           C
+HETATM   52  P12 7NO8    0      13.951   6.786  -0.865  1.00  0.00           C
+HETATM   53  P11 7NO8    0      13.335   6.871   0.517  1.00  0.00           C
+HETATM   54  P10 7NO8    0      13.397   5.588   1.316  1.00  0.00           C
+HETATM   55   P9 7NO8    0      14.809   5.180   1.681  1.00  0.00           C
+HETATM   56   P8 7NO8    0      14.816   3.847   2.399  1.00  0.00           C
+HETATM   57   P7 7NO8    0      16.196   3.424   2.855  1.00  0.00           C
+HETATM   58   P6 7NO8    0      17.203   3.235   1.741  1.00  0.00           C
+HETATM   59   P5 7NO8    0      16.811   2.212   0.697  1.00  0.00           C
+HETATM   60   P4 7NO8    0      16.683   0.812   1.259  1.00  0.00           C
+HETATM   61   P3 7NO8    0      16.442  -0.198   0.156  1.00  0.00           C
+HETATM   62   P2 7NO8    0      16.225  -1.598   0.693  1.00  0.00           C
+HETATM   63   P1 7NO8    0      14.831  -1.800   1.231  1.00  0.00           C
+CONECT    1    2
+CONECT    2    1    3
+CONECT    3    2    4
+CONECT    4    3    5
+CONECT    5    4    6
+CONECT    6    5    7
+CONECT    7    6    8
+CONECT    8    7    9
+CONECT    9    8   10
+CONECT   10    9   11
+CONECT   11   10   12
+CONECT   12   11   13
+CONECT   13   12   14
+CONECT   14   13   15
+CONECT   15   14   16
+CONECT   16   15   17
+CONECT   17   16   18
+CONECT   18   17   19
+CONECT   19   18   20
+CONECT   20   19   21
+CONECT   21   20   22
+CONECT   22   21   23
+CONECT   23   22   24
+CONECT   24   23   25
+CONECT   25   24   26
+CONECT   26   25   27
+CONECT   27   26   28
+CONECT   28   27   29
+CONECT   29   28   30
+CONECT   30   29   31
+CONECT   31   30   32
+CONECT   32   31   33
+CONECT   33   32   34
+CONECT   34   33   35
+CONECT   35   34   36
+CONECT   36   35   37
+CONECT   37   36   38
+CONECT   38   37   39
+CONECT   39   38   40
+CONECT   40   39   41
+CONECT   41   40   42
+CONECT   42   41   43
+CONECT   43   42   44
+CONECT   44   43   45
+CONECT   45   44   46
+CONECT   46   45   47
+CONECT   47   46   48
+CONECT   48   47   49
+CONECT   49   48   50
+CONECT   50   49   51
+CONECT   51   50   52
+CONECT   52   51   53
+CONECT   53   52   54
+CONECT   54   53   55
+CONECT   55   54   56
+CONECT   56   55   57
+CONECT   57   56   58
+CONECT   58   57   59
+CONECT   59   58   60
+CONECT   60   59   61
+CONECT   61   60   62
+CONECT   62   61   63
+CONECT   63   62
+END
+

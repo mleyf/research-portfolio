@@ -1,0 +1,10 @@
+/* Chalky effect */
+#single-molecule-viewer canvas {
+  filter: brightness(0.9) contrast(1.2);
+}
+
+
+/* Shiny effect */
+#system-viewer canvas {
+  filter: brightness(1.1) contrast(1.0);
+}

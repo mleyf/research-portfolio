@@ -1,0 +1,154 @@
+HEADER    UNCLASSIFIED                            28-Feb-24
+TITLE     UNITED ATOM STRUCTURE FOR MOLECULE UNL                                
+AUTHOR    AUTOMATED TOPOLOGY BUILDER (ATB) REVISION 2023-06-14 20:38:16
+AUTHOR   2  https://atb.uq.edu.au
+HETATM    1  P68 HF9P    0       8.235  -4.358   0.832  1.00  0.00           C
+HETATM    2  P67 HF9P    0       8.066  -4.751  -0.612  1.00  0.00           C
+HETATM    3  P66 HF9P    0       7.585  -3.606  -1.478  1.00  0.00           C
+HETATM    4  P65 HF9P    0       6.131  -3.264  -1.231  1.00  0.00           C
+HETATM    5  P64 HF9P    0       5.612  -2.206  -2.184  1.00  0.00           C
+HETATM    6  P63 HF9P    0       6.220  -0.837  -1.949  1.00  0.00           C
+HETATM    7  P62 HF9P    0       7.261  -0.480  -2.990  1.00  0.00           C
+HETATM    8  P61 HF9P    0       7.989   0.795  -2.627  1.00  0.00           C
+HETATM    9  P60 HF9P    0       8.912   1.279  -3.724  1.00  0.00           C
+HETATM   10  P59 HF9P    0      10.037   0.329  -4.073  1.00  0.00           C
+HETATM   11  P58 HF9P    0      10.959  -0.010  -2.922  1.00  0.00           C
+HETATM   12  P57 HF9P    0      11.657   1.205  -2.349  1.00  0.00           C
+HETATM   13  P56 HF9P    0      12.668   0.806  -1.294  1.00  0.00           C
+HETATM   14  P55 HF9P    0      13.229   2.020  -0.585  1.00  0.00           C
+HETATM   15  P54 HF9P    0      14.331   1.679   0.395  1.00  0.00           C
+HETATM   16  P53 HF9P    0      13.939   0.683   1.465  1.00  0.00           C
+HETATM   17  P52 HF9P    0      12.776   1.152   2.313  1.00  0.00           C
+HETATM   18  P51 HF9P    0      12.440   0.142   3.389  1.00  0.00           C
+HETATM   19  P50 HF9P    0      11.169   0.520   4.120  1.00  0.00           C
+HETATM   20  P49 HF9P    0      10.740  -0.574   5.074  1.00  0.00           C
+HETATM   21  P48 HF9P    0       9.482  -0.230   5.841  1.00  0.00           C
+HETATM   22  P47 HF9P    0       8.248  -0.031   4.986  1.00  0.00           C
+HETATM   23  P46 HF9P    0       7.866  -1.265   4.195  1.00  0.00           C
+HETATM   24  P45 HF9P    0       6.595  -1.064   3.390  1.00  0.00           C
+HETATM   25  P44 HF9P    0       6.838  -0.875   1.907  1.00  0.00           C
+HETATM   26  P43 HF9P    0       7.564   0.405   1.550  1.00  0.00           C
+HETATM   27  P42 HF9P    0       6.751   1.664   1.763  1.00  0.00           C
+HETATM   28  P41 HF9P    0       5.606   1.790   0.779  1.00  0.00           C
+HETATM   29  P40 HF9P    0       4.891   3.121   0.906  1.00  0.00           C
+HETATM   30  P39 HF9P    0       5.601   4.244   0.183  1.00  0.00           C
+HETATM   31  C38 HF9P    0       5.636   4.047  -1.322  1.00  0.00           C
+HETATM   32   O2 HF9P    0       6.718   3.912  -1.930  1.00  0.00           O
+HETATM   33   N2 HF9P    0       4.432   4.075  -2.001  1.00  0.00           N
+HETATM   34  H75 HF9P    0       3.593   4.053  -1.472  1.00  0.00           H
+HETATM   35  C37 HF9P    0       4.335   3.780  -3.403  1.00  0.00           C
+HETATM   36  C36 HF9P    0       4.181   2.303  -3.767  1.00  0.00           C
+HETATM   37  C35 HF9P    0       2.806   1.732  -3.502  1.00  0.00           C
+HETATM   38  C34 HF9P    0       2.521   1.473  -2.037  1.00  0.00           C
+HETATM   39  C33 HF9P    0       1.397   0.475  -1.842  1.00  0.00           C
+HETATM   40  C32 HF9P    0       1.921  -0.961  -1.911  1.00  0.00           C
+HETATM   41   N1 HF9P    0       0.901  -1.970  -1.850  1.00  0.00           N
+HETATM   42  H62 HF9P    0       0.247  -1.999  -2.592  1.00  0.00           H
+HETATM   43  C31 HF9P    0       0.683  -2.752  -0.731  1.00  0.00           C
+HETATM   44   O1 HF9P    0       1.424  -2.662   0.268  1.00  0.00           O
+HETATM   45  P30 HF9P    0      -0.445  -3.768  -0.809  1.00  0.00           C
+HETATM   46  P29 HF9P    0      -1.017  -4.080   0.558  1.00  0.00           C
+HETATM   47  P28 HF9P    0      -1.890  -2.975   1.112  1.00  0.00           C
+HETATM   48  P27 HF9P    0      -3.225  -2.869   0.406  1.00  0.00           C
+HETATM   49  P26 HF9P    0      -4.137  -1.882   1.104  1.00  0.00           C
+HETATM   50  P25 HF9P    0      -5.432  -1.698   0.341  1.00  0.00           C
+HETATM   51  P24 HF9P    0      -6.408  -0.836   1.114  1.00  0.00           C
+HETATM   52  P23 HF9P    0      -7.613  -0.432   0.292  1.00  0.00           C
+HETATM   53  P22 HF9P    0      -8.478  -1.588  -0.160  1.00  0.00           C
+HETATM   54  P21 HF9P    0      -9.171  -2.291   0.988  1.00  0.00           C
+HETATM   55  P20 HF9P    0     -10.126  -3.349   0.479  1.00  0.00           C
+HETATM   56  P19 HF9P    0     -10.799  -4.084   1.620  1.00  0.00           C
+HETATM   57  P18 HF9P    0     -11.831  -5.082   1.129  1.00  0.00           C
+HETATM   58  P17 HF9P    0     -13.258  -4.590   1.256  1.00  0.00           C
+HETATM   59  P16 HF9P    0     -13.541  -3.384   0.386  1.00  0.00           C
+HETATM   60  P15 HF9P    0     -15.009  -3.016   0.414  1.00  0.00           C
+HETATM   61  P14 HF9P    0     -15.285  -1.687  -0.257  1.00  0.00           C
+HETATM   62  P13 HF9P    0     -15.165  -1.760  -1.765  1.00  0.00           C
+HETATM   63  P12 HF9P    0     -15.368  -0.411  -2.423  1.00  0.00           C
+HETATM   64  P11 HF9P    0     -14.135   0.463  -2.333  1.00  0.00           C
+HETATM   65  P10 HF9P    0     -14.383   1.829  -2.936  1.00  0.00           C
+HETATM   66   P9 HF9P    0     -13.147   2.704  -2.923  1.00  0.00           C
+HETATM   67   P8 HF9P    0     -12.696   3.094  -1.528  1.00  0.00           C
+HETATM   68   P7 HF9P    0     -11.469   2.323  -1.086  1.00  0.00           C
+HETATM   69   P6 HF9P    0     -11.106   2.571   0.363  1.00  0.00           C
+HETATM   70   P5 HF9P    0     -10.640   3.988   0.641  1.00  0.00           C
+HETATM   71   P4 HF9P    0     -11.719   4.871   1.235  1.00  0.00           C
+HETATM   72   P3 HF9P    0     -11.946   4.595   2.707  1.00  0.00           C
+HETATM   73   P2 HF9P    0     -13.038   5.480   3.269  1.00  0.00           C
+HETATM   74   P1 HF9P    0     -13.277   5.204   4.731  1.00  0.00           C
+CONECT    1    2
+CONECT    2    1    3
+CONECT    3    2    4
+CONECT    4    3    5
+CONECT    5    4    6
+CONECT    6    5    7
+CONECT    7    6    8
+CONECT    8    7    9
+CONECT    9    8   10
+CONECT   10    9   11
+CONECT   11   10   12
+CONECT   12   11   13
+CONECT   13   12   14
+CONECT   14   13   15
+CONECT   15   14   16
+CONECT   16   15   17
+CONECT   17   16   18
+CONECT   18   17   19
+CONECT   19   18   20
+CONECT   20   19   21
+CONECT   21   20   22
+CONECT   22   21   23
+CONECT   23   22   24
+CONECT   24   23   25
+CONECT   25   24   26
+CONECT   26   25   27
+CONECT   27   26   28
+CONECT   28   27   29
+CONECT   29   28   30
+CONECT   30   29   31
+CONECT   31   30   32   33
+CONECT   32   31
+CONECT   33   31   34   35
+CONECT   34   33
+CONECT   35   33   36
+CONECT   36   35   37
+CONECT   37   36   38
+CONECT   38   37   39
+CONECT   39   38   40
+CONECT   40   39   41
+CONECT   41   40   42   43
+CONECT   42   41
+CONECT   43   41   44   45
+CONECT   44   43
+CONECT   45   43   46
+CONECT   46   45   47
+CONECT   47   46   48
+CONECT   48   47   49
+CONECT   49   48   50
+CONECT   50   49   51
+CONECT   51   50   52
+CONECT   52   51   53
+CONECT   53   52   54
+CONECT   54   53   55
+CONECT   55   54   56
+CONECT   56   55   57
+CONECT   57   56   58
+CONECT   58   57   59
+CONECT   59   58   60
+CONECT   60   59   61
+CONECT   61   60   62
+CONECT   62   61   63
+CONECT   63   62   64
+CONECT   64   63   65
+CONECT   65   64   66
+CONECT   66   65   67
+CONECT   67   66   68
+CONECT   68   67   69
+CONECT   69   68   70
+CONECT   70   69   71
+CONECT   71   70   72
+CONECT   72   71   73
+CONECT   73   72   74
+CONECT   74   73
+END
+

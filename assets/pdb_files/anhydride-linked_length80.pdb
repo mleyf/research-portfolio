@@ -1,0 +1,177 @@
+HEADER    UNCLASSIFIED                            08-Feb-24
+TITLE     UNITED ATOM STRUCTURE FOR MOLECULE UNL                                
+AUTHOR    AUTOMATED TOPOLOGY BUILDER (ATB) REVISION 2023-06-14 20:38:16
+AUTHOR   2  https://atb.uq.edu.au
+HETATM    1  P82 ID2Y    0     -26.423  -6.461   0.836  1.00  0.00           C
+HETATM    2  P81 ID2Y    0     -25.838  -5.601   1.927  1.00  0.00           C
+HETATM    3  P80 ID2Y    0     -24.808  -4.618   1.409  1.00  0.00           C
+HETATM    4  P79 ID2Y    0     -25.444  -3.438   0.704  1.00  0.00           C
+HETATM    5  P78 ID2Y    0     -24.416  -2.442   0.207  1.00  0.00           C
+HETATM    6  P77 ID2Y    0     -23.904  -1.542   1.312  1.00  0.00           C
+HETATM    7  P76 ID2Y    0     -22.899  -0.542   0.782  1.00  0.00           C
+HETATM    8  P75 ID2Y    0     -22.442   0.404   1.872  1.00  0.00           C
+HETATM    9  P74 ID2Y    0     -21.413   1.401   1.384  1.00  0.00           C
+HETATM   10  P73 ID2Y    0     -22.019   2.472   0.500  1.00  0.00           C
+HETATM   11  P72 ID2Y    0     -21.001   3.503   0.053  1.00  0.00           C
+HETATM   12  P71 ID2Y    0     -20.512   3.299  -1.367  1.00  0.00           C
+HETATM   13  P70 ID2Y    0     -19.590   2.106  -1.500  1.00  0.00           C
+HETATM   14  P69 ID2Y    0     -19.007   1.979  -2.894  1.00  0.00           C
+HETATM   15  P68 ID2Y    0     -17.902   2.978  -3.178  1.00  0.00           C
+HETATM   16  P67 ID2Y    0     -16.507   2.399  -3.067  1.00  0.00           C
+HETATM   17  P66 ID2Y    0     -16.119   1.943  -1.677  1.00  0.00           C
+HETATM   18  P65 ID2Y    0     -16.018   3.053  -0.652  1.00  0.00           C
+HETATM   19  P64 ID2Y    0     -14.817   3.948  -0.874  1.00  0.00           C
+HETATM   20  P63 ID2Y    0     -14.765   5.108   0.097  1.00  0.00           C
+HETATM   21  P62 ID2Y    0     -14.578   4.715   1.546  1.00  0.00           C
+HETATM   22  P61 ID2Y    0     -13.320   3.923   1.831  1.00  0.00           C
+HETATM   23  P60 ID2Y    0     -12.055   4.688   1.506  1.00  0.00           C
+HETATM   24  P59 ID2Y    0     -10.805   3.932   1.904  1.00  0.00           C
+HETATM   25  P58 ID2Y    0     -10.506   2.782   0.965  1.00  0.00           C
+HETATM   26  P57 ID2Y    0      -9.235   2.047   1.332  1.00  0.00           C
+HETATM   27  P56 ID2Y    0      -7.988   2.819   0.954  1.00  0.00           C
+HETATM   28  P55 ID2Y    0      -6.743   1.991   1.190  1.00  0.00           C
+HETATM   29  P54 ID2Y    0      -5.465   2.779   1.003  1.00  0.00           C
+HETATM   30  P53 ID2Y    0      -5.292   3.393  -0.369  1.00  0.00           C
+HETATM   31  P52 ID2Y    0      -5.341   2.407  -1.516  1.00  0.00           C
+HETATM   32  P51 ID2Y    0      -4.251   1.359  -1.441  1.00  0.00           C
+HETATM   33  P50 ID2Y    0      -4.207   0.531  -2.707  1.00  0.00           C
+HETATM   34  P49 ID2Y    0      -3.294  -0.670  -2.595  1.00  0.00           C
+HETATM   35  P48 ID2Y    0      -1.829  -0.332  -2.415  1.00  0.00           C
+HETATM   36  P47 ID2Y    0      -1.235   0.363  -3.622  1.00  0.00           C
+HETATM   37  P46 ID2Y    0       0.259   0.571  -3.500  1.00  0.00           C
+HETATM   38  P45 ID2Y    0       1.081  -0.698  -3.584  1.00  0.00           C
+HETATM   39  P44 ID2Y    0       0.989  -1.401  -4.925  1.00  0.00           C
+HETATM   40  P43 ID2Y    0       0.072  -2.609  -4.897  1.00  0.00           C
+HETATM   41  C42 ID2Y    0       0.651  -3.698  -4.045  1.00  0.00           C
+HETATM   42   O3 ID2Y    0       1.676  -4.350  -4.202  1.00  0.00           O
+HETATM   43   O2 ID2Y    0      -0.105  -3.906  -2.905  1.00  0.00           O
+HETATM   44  C41 ID2Y    0       0.064  -5.006  -2.083  1.00  0.00           C
+HETATM   45   O1 ID2Y    0       0.593  -6.009  -2.548  1.00  0.00           O
+HETATM   46  P40 ID2Y    0      -0.551  -4.813  -0.731  1.00  0.00           C
+HETATM   47  P39 ID2Y    0      -0.098  -3.547  -0.034  1.00  0.00           C
+HETATM   48  P38 ID2Y    0       1.263  -3.667   0.619  1.00  0.00           C
+HETATM   49  P37 ID2Y    0       2.395  -3.638  -0.386  1.00  0.00           C
+HETATM   50  P36 ID2Y    0       3.757  -3.638   0.276  1.00  0.00           C
+HETATM   51  P35 ID2Y    0       4.137  -4.994   0.828  1.00  0.00           C
+HETATM   52  P34 ID2Y    0       5.452  -4.973   1.580  1.00  0.00           C
+HETATM   53  P33 ID2Y    0       6.665  -4.783   0.689  1.00  0.00           C
+HETATM   54  P32 ID2Y    0       7.028  -3.327   0.457  1.00  0.00           C
+HETATM   55  P31 ID2Y    0       8.340  -2.925   1.102  1.00  0.00           C
+HETATM   56  P30 ID2Y    0       8.288  -2.911   2.617  1.00  0.00           C
+HETATM   57  P29 ID2Y    0       8.048  -1.538   3.209  1.00  0.00           C
+HETATM   58  P28 ID2Y    0       6.673  -0.991   2.892  1.00  0.00           C
+HETATM   59  P27 ID2Y    0       6.343   0.262   3.677  1.00  0.00           C
+HETATM   60  P26 ID2Y    0       7.171   1.465   3.267  1.00  0.00           C
+HETATM   61  P25 ID2Y    0       8.305   1.737   4.233  1.00  0.00           C
+HETATM   62  P24 ID2Y    0       9.195   2.856   3.734  1.00  0.00           C
+HETATM   63  P23 ID2Y    0      10.412   3.060   4.615  1.00  0.00           C
+HETATM   64  P22 ID2Y    0      11.681   2.466   4.038  1.00  0.00           C
+HETATM   65  P21 ID2Y    0      11.648   0.953   3.994  1.00  0.00           C
+HETATM   66  P20 ID2Y    0      12.956   0.387   3.485  1.00  0.00           C
+HETATM   67  P19 ID2Y    0      12.915  -1.126   3.448  1.00  0.00           C
+HETATM   68  P18 ID2Y    0      14.183  -1.732   2.885  1.00  0.00           C
+HETATM   69  P17 ID2Y    0      15.346  -1.650   3.853  1.00  0.00           C
+HETATM   70  P16 ID2Y    0      16.578  -2.371   3.342  1.00  0.00           C
+HETATM   71  P15 ID2Y    0      17.594  -1.460   2.685  1.00  0.00           C
+HETATM   72  P14 ID2Y    0      17.101  -0.867   1.382  1.00  0.00           C
+HETATM   73  P13 ID2Y    0      18.219  -0.324   0.515  1.00  0.00           C
+HETATM   74  P12 ID2Y    0      18.900   0.907   1.077  1.00  0.00           C
+HETATM   75  P11 ID2Y    0      20.151   0.627   1.884  1.00  0.00           C
+HETATM   76  P10 ID2Y    0      21.289  -0.019   1.122  1.00  0.00           C
+HETATM   77   P9 ID2Y    0      21.765   0.747  -0.093  1.00  0.00           C
+HETATM   78   P8 ID2Y    0      22.410   2.070   0.258  1.00  0.00           C
+HETATM   79   P7 ID2Y    0      22.914   2.807  -0.965  1.00  0.00           C
+HETATM   80   P6 ID2Y    0      24.149   2.167  -1.563  1.00  0.00           C
+HETATM   81   P5 ID2Y    0      24.732   2.978  -2.702  1.00  0.00           C
+HETATM   82   P4 ID2Y    0      23.843   2.980  -3.929  1.00  0.00           C
+HETATM   83   P3 ID2Y    0      24.512   3.638  -5.121  1.00  0.00           C
+HETATM   84   P2 ID2Y    0      25.019   2.647  -6.150  1.00  0.00           C
+HETATM   85   P1 ID2Y    0      26.163   1.807  -5.643  1.00  0.00           C
+CONECT    1    2
+CONECT    2    1    3
+CONECT    3    2    4
+CONECT    4    3    5
+CONECT    5    4    6
+CONECT    6    5    7
+CONECT    7    6    8
+CONECT    8    7    9
+CONECT    9    8   10
+CONECT   10    9   11
+CONECT   11   10   12
+CONECT   12   11   13
+CONECT   13   12   14
+CONECT   14   13   15
+CONECT   15   14   16
+CONECT   16   15   17
+CONECT   17   16   18
+CONECT   18   17   19
+CONECT   19   18   20
+CONECT   20   19   21
+CONECT   21   20   22
+CONECT   22   21   23
+CONECT   23   22   24
+CONECT   24   23   25
+CONECT   25   24   26
+CONECT   26   25   27
+CONECT   27   26   28
+CONECT   28   27   29
+CONECT   29   28   30
+CONECT   30   29   31
+CONECT   31   30   32
+CONECT   32   31   33
+CONECT   33   32   34
+CONECT   34   33   35
+CONECT   35   34   36
+CONECT   36   35   37
+CONECT   37   36   38
+CONECT   38   37   39
+CONECT   39   38   40
+CONECT   40   39   41
+CONECT   41   40   42   43
+CONECT   42   41
+CONECT   43   41   44
+CONECT   44   43   45   46
+CONECT   45   44
+CONECT   46   44   47
+CONECT   47   46   48
+CONECT   48   47   49
+CONECT   49   48   50
+CONECT   50   49   51
+CONECT   51   50   52
+CONECT   52   51   53
+CONECT   53   52   54
+CONECT   54   53   55
+CONECT   55   54   56
+CONECT   56   55   57
+CONECT   57   56   58
+CONECT   58   57   59
+CONECT   59   58   60
+CONECT   60   59   61
+CONECT   61   60   62
+CONECT   62   61   63
+CONECT   63   62   64
+CONECT   64   63   65
+CONECT   65   64   66
+CONECT   66   65   67
+CONECT   67   66   68
+CONECT   68   67   69
+CONECT   69   68   70
+CONECT   70   69   71
+CONECT   71   70   72
+CONECT   72   71   73
+CONECT   73   72   74
+CONECT   74   73   75
+CONECT   75   74   76
+CONECT   76   75   77
+CONECT   77   76   78
+CONECT   78   77   79
+CONECT   79   78   80
+CONECT   80   79   81
+CONECT   81   80   82
+CONECT   82   81   83
+CONECT   83   82   84
+CONECT   84   83   85
+CONECT   85   84
+END
+
+
