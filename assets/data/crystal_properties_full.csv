@@ -1,0 +1,12 @@
+﻿polymer,chain_length,crystallization_temp,latent_heat_crystallization,aligned_fraction
+Acetal-linked,80,279.4,838.06,0.014
+Amide-linked,80,284.3,852.98,0.015
+Anhydride-linked,80,294,881.87,0.016
+Aromatic Ester-linked,80,271.8,815.44,0.013
+Polyethylene,80,297.6,892.94,0.016
+Carbonate-linked,80,267.4,802.32,0.01
+Ester-linked,80,283.9,851.64,0.016
+Oxalate-linked,80,291.5,874.62,0.017
+Siloxane-linked,80,264.4,793.21,0.011
+Urea-linked,80,281.3,843.93,0.015
+Urethane-linked,80,290.7,872.16,0.016

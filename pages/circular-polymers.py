@@ -16,7 +16,10 @@ dash.register_page(
 )
 
 # Load properties data
+# Melt Properties
 df = pd.read_csv('assets/data/polymer_properties_full.csv')
+# Crystal Properties
+df_crys = pd.read_csv('assets/data/crystal_properties_full.csv')
 
 # Layout
 layout = dbc.Container(fluid=True, children=[
@@ -337,7 +340,7 @@ def update_main_content(polymer, length, temp, poly_crystal):
     cryst_view = dashbio.Molecule3dViewer(modelData=cryst_data, styles=cryst_style, backgroundColor='white')
 
     # Solid-state properties
-    cryst_row = df[df['polymer']==poly_crystal].iloc[0]
+    cryst_row = df_crys[df_crys['polymer']==poly_crystal].iloc[0]
     ctemp = f"{cryst_row['crystallization_temp']:.1f}"
     cheap = f"{cryst_row['latent_heat_crystallization']:.2f}"
     cfrac = f"{cryst_row['aligned_fraction']:.1%}"
